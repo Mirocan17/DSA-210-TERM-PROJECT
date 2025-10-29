@@ -9,19 +9,27 @@ In this project, we will explore whether sacrificing a teams entire season for t
 Every summer, different from most of the other popular sports in the world, more than 50 new young and talented basketball players comes to the NBA. Especially top picks of those drafts are destined to change the destiny of the league and their franchises. I want to investigate how many of these players are truly changing the destiny of their franchises and what skills do they have. I also wanted to learn that how many of these tanking teams get the pick that they want in the draft. Another thing i want to explore is the justice in that lottery system because it changes throughout years. 
 
 ## Data Process
-This project will be mainly based on 3 datasets.
+This project will be mainly based on 3 datasets. The datas to be found:
 
-1)NBA Regular Season Statistics
+### NBA Regular Season Statistics
 
 •NBA Teams
+
 •Standings by Conference
 
-2)NBA Draft Lottery Statistics
+### NBA Draft Lottery Statistics
+
+•Percentages 
 
 •Lottery Results
-•
-3)NBA Draft results and the performances of the players.
 
-In that dataset we will find out the relationship between overalls and their relative success.
+### NBA Draft results and the performances of the players.
+
+•Draft Order
+
+•New NBA Players
+
+•Accolades of Players 
+
 
 
