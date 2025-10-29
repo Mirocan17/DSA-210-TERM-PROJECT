@@ -13,12 +13,13 @@ This project will be mainly based on 3 datasets.
 
 1)NBA Regular Season Statistics
 
-In that
+•NBA Teams
+•Standings by Conference
 
 2)NBA Draft Lottery Statistics
 
-In that dataset we will find out which seed team get which overall pick in the draft.
-
+•Lottery Results
+•
 3)NBA Draft results and the performances of the players.
 
 In that dataset we will find out the relationship between overalls and their relative success.
