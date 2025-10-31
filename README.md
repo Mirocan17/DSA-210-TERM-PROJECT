@@ -51,7 +51,19 @@ This project will be mainly based on 3 datasets. The datas to be found:
 
 •Visualization : Maps, graphs, charts will be used to visualize the relationship between team performance, draft order and player perrformance. Basic statistics will be computed to relate with the data.
 
+3.Hypothesis
 
+1• Teams with lower win percentages get high order draft picks and be more succesfull in the upcoming years.
+
+## Tools and Technologies
+Python : Main programming language for all steps of the project providing visualization and data processing.
+
+Pandas : Used for further processing operations on the data.
+
+Websites : To found accurate and reliable data for the project.
+
+## Expected Outcome
+This analysis will be helpful to understand if tanking is an effective strategy or just a gamble.
 
 
 
