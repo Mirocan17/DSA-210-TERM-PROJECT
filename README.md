@@ -38,4 +38,20 @@ This project will be mainly based on 3 datasets. The datas to be found:
 
 •Accolades of Players : The careers of especially top picks will be analyzed to see how many of them succeed and meet expectations.
 
+## Data Process
+1.Data Cleaning
+
+•Merging : The team name, draft order and players drafted will be merged, linking every teams record in a season with their draft results in the upcoming year.
+
+•Missing or Wrong Data : In huge datasets, some missing or wrong values can occur. Those errors will be standatized.
+
+•Adjustments : New columns for the data can be added for different anaylsis.
+
+2.Explatory Data Analysis (EDA)
+
+•Visualization : Maps, graphs, charts will be used to visualize the relationship between team performance, draft order and player perrformance. Basic statistics will be computed to relate with the data.
+
+
+
+
 
