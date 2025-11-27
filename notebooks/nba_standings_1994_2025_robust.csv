@@ -1,0 +1,916 @@
+Year,Conference,Team,W,L,W/L%
+1994,East,New York Knicks,57,25,.695
+1994,East,Atlanta Hawks,57,25,.695
+1994,East,Chicago Bulls,55,27,.671
+1994,East,Orlando Magic,50,32,.610
+1994,East,Indiana Pacers,47,35,.573
+1994,East,Cleveland Cavaliers,47,35,.573
+1994,East,New Jersey Nets,45,37,.549
+1994,East,Miami Heat,42,40,.512
+1994,East,Charlotte Hornets,41,41,.500
+1994,East,Boston Celtics,32,50,.390
+1994,East,Philadelphia 76ers,25,57,.305
+1994,East,Washington Bullets,24,58,.293
+1994,East,Milwaukee Bucks,20,62,.244
+1994,East,Detroit Pistons,20,62,.244
+1994,West,Seattle SuperSonics,63,19,.768
+1994,West,Houston Rockets,58,24,.707
+1994,West,Phoenix Suns,56,26,.683
+1994,West,San Antonio Spurs,55,27,.671
+1994,West,Utah Jazz,53,29,.646
+1994,West,Golden State Warriors,50,32,.610
+1994,West,Portland Trail Blazers,47,35,.573
+1994,West,Denver Nuggets,42,40,.512
+1994,West,Los Angeles Lakers,33,49,.402
+1994,West,Sacramento Kings,28,54,.341
+1994,West,Los Angeles Clippers,27,55,.329
+1994,West,Minnesota Timberwolves,20,62,.244
+1994,West,Dallas Mavericks,13,69,.159
+1995,East,Orlando Magic,57,25,.695
+1995,East,New York Knicks,55,27,.671
+1995,East,Indiana Pacers,52,30,.634
+1995,East,Charlotte Hornets,50,32,.610
+1995,East,Chicago Bulls,47,35,.573
+1995,East,Cleveland Cavaliers,43,39,.524
+1995,East,Atlanta Hawks,42,40,.512
+1995,East,Boston Celtics,35,47,.427
+1995,East,Milwaukee Bucks,34,48,.415
+1995,East,Miami Heat,32,50,.390
+1995,East,New Jersey Nets,30,52,.366
+1995,East,Detroit Pistons,28,54,.341
+1995,East,Philadelphia 76ers,24,58,.293
+1995,East,Washington Bullets,21,61,.256
+1995,West,San Antonio Spurs,62,20,.756
+1995,West,Utah Jazz,60,22,.732
+1995,West,Phoenix Suns,59,23,.720
+1995,West,Seattle SuperSonics,57,25,.695
+1995,West,Los Angeles Lakers,48,34,.585
+1995,West,Houston Rockets,47,35,.573
+1995,West,Portland Trail Blazers,44,38,.537
+1995,West,Denver Nuggets,41,41,.500
+1995,West,Sacramento Kings,39,43,.476
+1995,West,Dallas Mavericks,36,46,.439
+1995,West,Golden State Warriors,26,56,.317
+1995,West,Minnesota Timberwolves,21,61,.256
+1995,West,Los Angeles Clippers,17,65,.207
+1996,East,Chicago Bulls,72,10,.878
+1996,East,Orlando Magic,60,22,.732
+1996,East,Indiana Pacers,52,30,.634
+1996,East,New York Knicks,47,35,.573
+1996,East,Cleveland Cavaliers,47,35,.573
+1996,East,Atlanta Hawks,46,36,.561
+1996,East,Detroit Pistons,46,36,.561
+1996,East,Miami Heat,42,40,.512
+1996,East,Charlotte Hornets,41,41,.500
+1996,East,Washington Bullets,39,43,.476
+1996,East,Boston Celtics,33,49,.402
+1996,East,New Jersey Nets,30,52,.366
+1996,East,Milwaukee Bucks,25,57,.305
+1996,East,Toronto Raptors,21,61,.256
+1996,East,Philadelphia 76ers,18,64,.220
+1996,West,Seattle SuperSonics,64,18,.780
+1996,West,San Antonio Spurs,59,23,.720
+1996,West,Utah Jazz,55,27,.671
+1996,West,Los Angeles Lakers,53,29,.646
+1996,West,Houston Rockets,48,34,.585
+1996,West,Portland Trail Blazers,44,38,.537
+1996,West,Phoenix Suns,41,41,.500
+1996,West,Sacramento Kings,39,43,.476
+1996,West,Golden State Warriors,36,46,.439
+1996,West,Denver Nuggets,35,47,.427
+1996,West,Los Angeles Clippers,29,53,.354
+1996,West,Minnesota Timberwolves,26,56,.317
+1996,West,Dallas Mavericks,26,56,.317
+1996,West,Vancouver Grizzlies,15,67,.183
+1997,East,Chicago Bulls,69,13,.841
+1997,East,Miami Heat,61,21,.744
+1997,East,New York Knicks,57,25,.695
+1997,East,Atlanta Hawks,56,26,.683
+1997,East,Detroit Pistons,54,28,.659
+1997,East,Charlotte Hornets,54,28,.659
+1997,East,Orlando Magic,45,37,.549
+1997,East,Washington Bullets,44,38,.537
+1997,East,Cleveland Cavaliers,42,40,.512
+1997,East,Indiana Pacers,39,43,.476
+1997,East,Milwaukee Bucks,33,49,.402
+1997,East,Toronto Raptors,30,52,.366
+1997,East,New Jersey Nets,26,56,.317
+1997,East,Philadelphia 76ers,22,60,.268
+1997,East,Boston Celtics,15,67,.183
+1997,West,Utah Jazz,64,18,.780
+1997,West,Houston Rockets,57,25,.695
+1997,West,Seattle SuperSonics,57,25,.695
+1997,West,Los Angeles Lakers,56,26,.683
+1997,West,Portland Trail Blazers,49,33,.598
+1997,West,Minnesota Timberwolves,40,42,.488
+1997,West,Phoenix Suns,40,42,.488
+1997,West,Los Angeles Clippers,36,46,.439
+1997,West,Sacramento Kings,34,48,.415
+1997,West,Golden State Warriors,30,52,.366
+1997,West,Dallas Mavericks,24,58,.293
+1997,West,Denver Nuggets,21,61,.256
+1997,West,San Antonio Spurs,20,62,.244
+1997,West,Vancouver Grizzlies,14,68,.171
+1998,East,Chicago Bulls,62,20,.756
+1998,East,Indiana Pacers,58,24,.707
+1998,East,Miami Heat,55,27,.671
+1998,East,Charlotte Hornets,51,31,.622
+1998,East,Atlanta Hawks,50,32,.610
+1998,East,Cleveland Cavaliers,47,35,.573
+1998,East,New York Knicks,43,39,.524
+1998,East,New Jersey Nets,43,39,.524
+1998,East,Washington Wizards,42,40,.512
+1998,East,Orlando Magic,41,41,.500
+1998,East,Detroit Pistons,37,45,.451
+1998,East,Boston Celtics,36,46,.439
+1998,East,Milwaukee Bucks,36,46,.439
+1998,East,Philadelphia 76ers,31,51,.378
+1998,East,Toronto Raptors,16,66,.195
+1998,West,Utah Jazz,62,20,.756
+1998,West,Seattle SuperSonics,61,21,.744
+1998,West,Los Angeles Lakers,61,21,.744
+1998,West,San Antonio Spurs,56,26,.683
+1998,West,Phoenix Suns,56,26,.683
+1998,West,Portland Trail Blazers,46,36,.561
+1998,West,Minnesota Timberwolves,45,37,.549
+1998,West,Houston Rockets,41,41,.500
+1998,West,Sacramento Kings,27,55,.329
+1998,West,Dallas Mavericks,20,62,.244
+1998,West,Vancouver Grizzlies,19,63,.232
+1998,West,Golden State Warriors,19,63,.232
+1998,West,Los Angeles Clippers,17,65,.207
+1998,West,Denver Nuggets,11,71,.134
+1999,East,Miami Heat,33,17,.660
+1999,East,Orlando Magic,33,17,.660
+1999,East,Indiana Pacers,33,17,.660
+1999,East,Atlanta Hawks,31,19,.620
+1999,East,Detroit Pistons,29,21,.580
+1999,East,Philadelphia 76ers,28,22,.560
+1999,East,Milwaukee Bucks,28,22,.560
+1999,East,New York Knicks,27,23,.540
+1999,East,Charlotte Hornets,26,24,.520
+1999,East,Toronto Raptors,23,27,.460
+1999,East,Cleveland Cavaliers,22,28,.440
+1999,East,Boston Celtics,19,31,.380
+1999,East,Washington Wizards,18,32,.360
+1999,East,New Jersey Nets,16,34,.320
+1999,East,Chicago Bulls,13,37,.260
+1999,West,San Antonio Spurs,37,13,.740
+1999,West,Utah Jazz,37,13,.740
+1999,West,Portland Trail Blazers,35,15,.700
+1999,West,Houston Rockets,31,19,.620
+1999,West,Los Angeles Lakers,31,19,.620
+1999,West,Phoenix Suns,27,23,.540
+1999,West,Sacramento Kings,27,23,.540
+1999,West,Minnesota Timberwolves,25,25,.500
+1999,West,Seattle SuperSonics,25,25,.500
+1999,West,Golden State Warriors,21,29,.420
+1999,West,Dallas Mavericks,19,31,.380
+1999,West,Denver Nuggets,14,36,.280
+1999,West,Los Angeles Clippers,9,41,.180
+1999,West,Vancouver Grizzlies,8,42,.160
+2000,East,Indiana Pacers,56,26,.683
+2000,East,Miami Heat,52,30,.634
+2000,East,New York Knicks,50,32,.610
+2000,East,Philadelphia 76ers,49,33,.598
+2000,East,Charlotte Hornets,49,33,.598
+2000,East,Toronto Raptors,45,37,.549
+2000,East,Detroit Pistons,42,40,.512
+2000,East,Milwaukee Bucks,42,40,.512
+2000,East,Orlando Magic,41,41,.500
+2000,East,Boston Celtics,35,47,.427
+2000,East,Cleveland Cavaliers,32,50,.390
+2000,East,New Jersey Nets,31,51,.378
+2000,East,Washington Wizards,29,53,.354
+2000,East,Atlanta Hawks,28,54,.341
+2000,East,Chicago Bulls,17,65,.207
+2000,West,Los Angeles Lakers,67,15,.817
+2000,West,Portland Trail Blazers,59,23,.720
+2000,West,Utah Jazz,55,27,.671
+2000,West,San Antonio Spurs,53,29,.646
+2000,West,Phoenix Suns,53,29,.646
+2000,West,Minnesota Timberwolves,50,32,.610
+2000,West,Seattle SuperSonics,45,37,.549
+2000,West,Sacramento Kings,44,38,.537
+2000,West,Dallas Mavericks,40,42,.488
+2000,West,Denver Nuggets,35,47,.427
+2000,West,Houston Rockets,34,48,.415
+2000,West,Vancouver Grizzlies,22,60,.268
+2000,West,Golden State Warriors,19,63,.232
+2000,West,Los Angeles Clippers,15,67,.183
+2001,East,Philadelphia 76ers,56,26,.683
+2001,East,Milwaukee Bucks,52,30,.634
+2001,East,Miami Heat,50,32,.610
+2001,East,New York Knicks,48,34,.585
+2001,East,Toronto Raptors,47,35,.573
+2001,East,Charlotte Hornets,46,36,.561
+2001,East,Orlando Magic,43,39,.524
+2001,East,Indiana Pacers,41,41,.500
+2001,East,Boston Celtics,36,46,.439
+2001,East,Detroit Pistons,32,50,.390
+2001,East,Cleveland Cavaliers,30,52,.366
+2001,East,New Jersey Nets,26,56,.317
+2001,East,Atlanta Hawks,25,57,.305
+2001,East,Washington Wizards,19,63,.232
+2001,East,Chicago Bulls,15,67,.183
+2001,West,San Antonio Spurs,58,24,.707
+2001,West,Los Angeles Lakers,56,26,.683
+2001,West,Sacramento Kings,55,27,.671
+2001,West,Utah Jazz,53,29,.646
+2001,West,Dallas Mavericks,53,29,.646
+2001,West,Phoenix Suns,51,31,.622
+2001,West,Portland Trail Blazers,50,32,.610
+2001,West,Minnesota Timberwolves,47,35,.573
+2001,West,Houston Rockets,45,37,.549
+2001,West,Seattle SuperSonics,44,38,.537
+2001,West,Denver Nuggets,40,42,.488
+2001,West,Los Angeles Clippers,31,51,.378
+2001,West,Vancouver Grizzlies,23,59,.280
+2001,West,Golden State Warriors,17,65,.207
+2002,East,New Jersey Nets,52,30,.634
+2002,East,Detroit Pistons,50,32,.610
+2002,East,Boston Celtics,49,33,.598
+2002,East,Orlando Magic,44,38,.537
+2002,East,Charlotte Hornets,44,38,.537
+2002,East,Philadelphia 76ers,43,39,.524
+2002,East,Toronto Raptors,42,40,.512
+2002,East,Indiana Pacers,42,40,.512
+2002,East,Milwaukee Bucks,41,41,.500
+2002,East,Washington Wizards,37,45,.451
+2002,East,Miami Heat,36,46,.439
+2002,East,Atlanta Hawks,33,49,.402
+2002,East,New York Knicks,30,52,.366
+2002,East,Cleveland Cavaliers,29,53,.354
+2002,East,Chicago Bulls,21,61,.256
+2002,West,Sacramento Kings,61,21,.744
+2002,West,San Antonio Spurs,58,24,.707
+2002,West,Los Angeles Lakers,58,24,.707
+2002,West,Dallas Mavericks,57,25,.695
+2002,West,Minnesota Timberwolves,50,32,.610
+2002,West,Portland Trail Blazers,49,33,.598
+2002,West,Seattle SuperSonics,45,37,.549
+2002,West,Utah Jazz,44,38,.537
+2002,West,Los Angeles Clippers,39,43,.476
+2002,West,Phoenix Suns,36,46,.439
+2002,West,Houston Rockets,28,54,.341
+2002,West,Denver Nuggets,27,55,.329
+2002,West,Memphis Grizzlies,23,59,.280
+2002,West,Golden State Warriors,21,61,.256
+2003,East,Detroit Pistons,50,32,.610
+2003,East,New Jersey Nets,49,33,.598
+2003,East,Philadelphia 76ers,48,34,.585
+2003,East,Indiana Pacers,48,34,.585
+2003,East,Boston Celtics,44,38,.537
+2003,East,Orlando Magic,42,40,.512
+2003,East,Milwaukee Bucks,42,40,.512
+2003,East,Washington Wizards,37,45,.451
+2003,East,New York Knicks,37,45,.451
+2003,East,Atlanta Hawks,35,47,.427
+2003,East,Chicago Bulls,30,52,.366
+2003,East,Miami Heat,25,57,.305
+2003,East,Toronto Raptors,24,58,.293
+2003,East,Cleveland Cavaliers,17,65,.207
+2003,West,San Antonio Spurs,60,22,.732
+2003,West,Dallas Mavericks,60,22,.732
+2003,West,Sacramento Kings,59,23,.720
+2003,West,Minnesota Timberwolves,51,31,.622
+2003,West,Los Angeles Lakers,50,32,.610
+2003,West,Portland Trail Blazers,50,32,.610
+2003,West,New Orleans Hornets,47,35,.573
+2003,West,Utah Jazz,47,35,.573
+2003,West,Phoenix Suns,44,38,.537
+2003,West,Houston Rockets,43,39,.524
+2003,West,Seattle SuperSonics,40,42,.488
+2003,West,Golden State Warriors,38,44,.463
+2003,West,Memphis Grizzlies,28,54,.341
+2003,West,Los Angeles Clippers,27,55,.329
+2003,West,Denver Nuggets,17,65,.207
+2004,East,Indiana Pacers,61,21,.744
+2004,East,Detroit Pistons,54,28,.659
+2004,East,New Jersey Nets,47,35,.573
+2004,East,Miami Heat,42,40,.512
+2004,East,Milwaukee Bucks,41,41,.500
+2004,East,New York Knicks,39,43,.476
+2004,East,Boston Celtics,36,46,.439
+2004,East,Cleveland Cavaliers,35,47,.427
+2004,East,Philadelphia 76ers,33,49,.402
+2004,East,Toronto Raptors,33,49,.402
+2004,East,Atlanta Hawks,28,54,.341
+2004,East,Washington Wizards,25,57,.305
+2004,East,Chicago Bulls,23,59,.280
+2004,East,Orlando Magic,21,61,.256
+2004,West,Minnesota Timberwolves,58,24,.707
+2004,West,San Antonio Spurs,57,25,.695
+2004,West,Los Angeles Lakers,56,26,.683
+2004,West,Sacramento Kings,55,27,.671
+2004,West,Dallas Mavericks,52,30,.634
+2004,West,Memphis Grizzlies,50,32,.610
+2004,West,Houston Rockets,45,37,.549
+2004,West,Denver Nuggets,43,39,.524
+2004,West,Utah Jazz,42,40,.512
+2004,West,New Orleans Hornets,41,41,.500
+2004,West,Portland Trail Blazers,41,41,.500
+2004,West,Golden State Warriors,37,45,.451
+2004,West,Seattle SuperSonics,37,45,.451
+2004,West,Phoenix Suns,29,53,.354
+2004,West,Los Angeles Clippers,28,54,.341
+2005,East,Miami Heat,59,23,.720
+2005,East,Detroit Pistons,54,28,.659
+2005,East,Chicago Bulls,47,35,.573
+2005,East,Boston Celtics,45,37,.549
+2005,East,Washington Wizards,45,37,.549
+2005,East,Indiana Pacers,44,38,.537
+2005,East,Philadelphia 76ers,43,39,.524
+2005,East,New Jersey Nets,42,40,.512
+2005,East,Cleveland Cavaliers,42,40,.512
+2005,East,Orlando Magic,36,46,.439
+2005,East,Toronto Raptors,33,49,.402
+2005,East,New York Knicks,33,49,.402
+2005,East,Milwaukee Bucks,30,52,.366
+2005,East,Charlotte Bobcats,18,64,.220
+2005,East,Atlanta Hawks,13,69,.159
+2005,West,Phoenix Suns,62,20,.756
+2005,West,San Antonio Spurs,59,23,.720
+2005,West,Dallas Mavericks,58,24,.707
+2005,West,Seattle SuperSonics,52,30,.634
+2005,West,Houston Rockets,51,31,.622
+2005,West,Sacramento Kings,50,32,.610
+2005,West,Denver Nuggets,49,33,.598
+2005,West,Memphis Grizzlies,45,37,.549
+2005,West,Minnesota Timberwolves,44,38,.537
+2005,West,Los Angeles Clippers,37,45,.451
+2005,West,Los Angeles Lakers,34,48,.415
+2005,West,Golden State Warriors,34,48,.415
+2005,West,Portland Trail Blazers,27,55,.329
+2005,West,Utah Jazz,26,56,.317
+2005,West,New Orleans Hornets,18,64,.220
+2006,East,Detroit Pistons,64,18,.780
+2006,East,Miami Heat,52,30,.634
+2006,East,Cleveland Cavaliers,50,32,.610
+2006,East,New Jersey Nets,49,33,.598
+2006,East,Washington Wizards,42,40,.512
+2006,East,Indiana Pacers,41,41,.500
+2006,East,Chicago Bulls,41,41,.500
+2006,East,Milwaukee Bucks,40,42,.488
+2006,East,Philadelphia 76ers,38,44,.463
+2006,East,Orlando Magic,36,46,.439
+2006,East,Boston Celtics,33,49,.402
+2006,East,Toronto Raptors,27,55,.329
+2006,East,Charlotte Bobcats,26,56,.317
+2006,East,Atlanta Hawks,26,56,.317
+2006,East,New York Knicks,23,59,.280
+2006,West,San Antonio Spurs,63,19,.768
+2006,West,Dallas Mavericks,60,22,.732
+2006,West,Phoenix Suns,54,28,.659
+2006,West,Memphis Grizzlies,49,33,.598
+2006,West,Los Angeles Clippers,47,35,.573
+2006,West,Los Angeles Lakers,45,37,.549
+2006,West,Denver Nuggets,44,38,.537
+2006,West,Sacramento Kings,44,38,.537
+2006,West,Utah Jazz,41,41,.500
+2006,West,Seattle SuperSonics,35,47,.427
+2006,West,Golden State Warriors,34,48,.415
+2006,West,Houston Rockets,34,48,.415
+2006,West,Minnesota Timberwolves,33,49,.402
+2006,West,Portland Trail Blazers,21,61,.256
+2006,,New Orleans/Oklahoma City Hornets,38,44,.463
+2007,East,Detroit Pistons,53,29,.646
+2007,East,Cleveland Cavaliers,50,32,.610
+2007,East,Chicago Bulls,49,33,.598
+2007,East,Toronto Raptors,47,35,.573
+2007,East,Miami Heat,44,38,.537
+2007,East,New Jersey Nets,41,41,.500
+2007,East,Washington Wizards,41,41,.500
+2007,East,Orlando Magic,40,42,.488
+2007,East,Philadelphia 76ers,35,47,.427
+2007,East,Indiana Pacers,35,47,.427
+2007,East,New York Knicks,33,49,.402
+2007,East,Charlotte Bobcats,33,49,.402
+2007,East,Atlanta Hawks,30,52,.366
+2007,East,Milwaukee Bucks,28,54,.341
+2007,East,Boston Celtics,24,58,.293
+2007,West,Dallas Mavericks,67,15,.817
+2007,West,Phoenix Suns,61,21,.744
+2007,West,San Antonio Spurs,58,24,.707
+2007,West,Houston Rockets,52,30,.634
+2007,West,Utah Jazz,51,31,.622
+2007,West,Denver Nuggets,45,37,.549
+2007,West,Los Angeles Lakers,42,40,.512
+2007,West,Golden State Warriors,42,40,.512
+2007,West,Los Angeles Clippers,40,42,.488
+2007,West,Sacramento Kings,33,49,.402
+2007,West,Portland Trail Blazers,32,50,.390
+2007,West,Minnesota Timberwolves,32,50,.390
+2007,West,Seattle SuperSonics,31,51,.378
+2007,West,Memphis Grizzlies,22,60,.268
+2007,,New Orleans/Oklahoma City Hornets,39,43,.476
+2008,East,Boston Celtics,66,16,.805
+2008,East,Detroit Pistons,59,23,.720
+2008,East,Orlando Magic,52,30,.634
+2008,East,Cleveland Cavaliers,45,37,.549
+2008,East,Washington Wizards,43,39,.524
+2008,East,Toronto Raptors,41,41,.500
+2008,East,Philadelphia 76ers,40,42,.488
+2008,East,Atlanta Hawks,37,45,.451
+2008,East,Indiana Pacers,36,46,.439
+2008,East,New Jersey Nets,34,48,.415
+2008,East,Chicago Bulls,33,49,.402
+2008,East,Charlotte Bobcats,32,50,.390
+2008,East,Milwaukee Bucks,26,56,.317
+2008,East,New York Knicks,23,59,.280
+2008,East,Miami Heat,15,67,.183
+2008,West,Los Angeles Lakers,57,25,.695
+2008,West,New Orleans Hornets,56,26,.683
+2008,West,San Antonio Spurs,56,26,.683
+2008,West,Phoenix Suns,55,27,.671
+2008,West,Houston Rockets,55,27,.671
+2008,West,Utah Jazz,54,28,.659
+2008,West,Dallas Mavericks,51,31,.622
+2008,West,Denver Nuggets,50,32,.610
+2008,West,Golden State Warriors,48,34,.585
+2008,West,Portland Trail Blazers,41,41,.500
+2008,West,Sacramento Kings,38,44,.463
+2008,West,Los Angeles Clippers,23,59,.280
+2008,West,Minnesota Timberwolves,22,60,.268
+2008,West,Memphis Grizzlies,22,60,.268
+2008,West,Seattle SuperSonics,20,62,.244
+2009,East,Cleveland Cavaliers,66,16,.805
+2009,East,Boston Celtics,62,20,.756
+2009,East,Orlando Magic,59,23,.720
+2009,East,Atlanta Hawks,47,35,.573
+2009,East,Miami Heat,43,39,.524
+2009,East,Philadelphia 76ers,41,41,.500
+2009,East,Chicago Bulls,41,41,.500
+2009,East,Detroit Pistons,39,43,.476
+2009,East,Indiana Pacers,36,46,.439
+2009,East,Charlotte Bobcats,35,47,.427
+2009,East,New Jersey Nets,34,48,.415
+2009,East,Milwaukee Bucks,34,48,.415
+2009,East,Toronto Raptors,33,49,.402
+2009,East,New York Knicks,32,50,.390
+2009,East,Washington Wizards,19,63,.232
+2009,West,Los Angeles Lakers,65,17,.793
+2009,West,Denver Nuggets,54,28,.659
+2009,West,Portland Trail Blazers,54,28,.659
+2009,West,San Antonio Spurs,54,28,.659
+2009,West,Houston Rockets,53,29,.646
+2009,West,Dallas Mavericks,50,32,.610
+2009,West,New Orleans Hornets,49,33,.598
+2009,West,Utah Jazz,48,34,.585
+2009,West,Phoenix Suns,46,36,.561
+2009,West,Golden State Warriors,29,53,.354
+2009,West,Minnesota Timberwolves,24,58,.293
+2009,West,Memphis Grizzlies,24,58,.293
+2009,West,Oklahoma City Thunder,23,59,.280
+2009,West,Los Angeles Clippers,19,63,.232
+2009,West,Sacramento Kings,17,65,.207
+2010,East,Cleveland Cavaliers,61,21,.744
+2010,East,Orlando Magic,59,23,.720
+2010,East,Atlanta Hawks,53,29,.646
+2010,East,Boston Celtics,50,32,.610
+2010,East,Miami Heat,47,35,.573
+2010,East,Milwaukee Bucks,46,36,.561
+2010,East,Charlotte Bobcats,44,38,.537
+2010,East,Chicago Bulls,41,41,.500
+2010,East,Toronto Raptors,40,42,.488
+2010,East,Indiana Pacers,32,50,.390
+2010,East,New York Knicks,29,53,.354
+2010,East,Philadelphia 76ers,27,55,.329
+2010,East,Detroit Pistons,27,55,.329
+2010,East,Washington Wizards,26,56,.317
+2010,East,New Jersey Nets,12,70,.146
+2010,West,Los Angeles Lakers,57,25,.695
+2010,West,Dallas Mavericks,55,27,.671
+2010,West,Phoenix Suns,54,28,.659
+2010,West,Denver Nuggets,53,29,.646
+2010,West,Utah Jazz,53,29,.646
+2010,West,Portland Trail Blazers,50,32,.610
+2010,West,Oklahoma City Thunder,50,32,.610
+2010,West,San Antonio Spurs,50,32,.610
+2010,West,Houston Rockets,42,40,.512
+2010,West,Memphis Grizzlies,40,42,.488
+2010,West,New Orleans Hornets,37,45,.451
+2010,West,Los Angeles Clippers,29,53,.354
+2010,West,Golden State Warriors,26,56,.317
+2010,West,Sacramento Kings,25,57,.305
+2010,West,Minnesota Timberwolves,15,67,.183
+2011,East,Chicago Bulls,62,20,.756
+2011,East,Miami Heat,58,24,.707
+2011,East,Boston Celtics,56,26,.683
+2011,East,Orlando Magic,52,30,.634
+2011,East,Atlanta Hawks,44,38,.537
+2011,East,New York Knicks,42,40,.512
+2011,East,Philadelphia 76ers,41,41,.500
+2011,East,Indiana Pacers,37,45,.451
+2011,East,Milwaukee Bucks,35,47,.427
+2011,East,Charlotte Bobcats,34,48,.415
+2011,East,Detroit Pistons,30,52,.366
+2011,East,New Jersey Nets,24,58,.293
+2011,East,Washington Wizards,23,59,.280
+2011,East,Toronto Raptors,22,60,.268
+2011,East,Cleveland Cavaliers,19,63,.232
+2011,West,San Antonio Spurs,61,21,.744
+2011,West,Los Angeles Lakers,57,25,.695
+2011,West,Dallas Mavericks,57,25,.695
+2011,West,Oklahoma City Thunder,55,27,.671
+2011,West,Denver Nuggets,50,32,.610
+2011,West,Portland Trail Blazers,48,34,.585
+2011,West,New Orleans Hornets,46,36,.561
+2011,West,Memphis Grizzlies,46,36,.561
+2011,West,Houston Rockets,43,39,.524
+2011,West,Phoenix Suns,40,42,.488
+2011,West,Utah Jazz,39,43,.476
+2011,West,Golden State Warriors,36,46,.439
+2011,West,Los Angeles Clippers,32,50,.390
+2011,West,Sacramento Kings,24,58,.293
+2011,West,Minnesota Timberwolves,17,65,.207
+2012,East,Chicago Bulls,50,16,.758
+2012,East,Miami Heat,46,20,.697
+2012,East,Indiana Pacers,42,24,.636
+2012,East,Atlanta Hawks,40,26,.606
+2012,East,Boston Celtics,39,27,.591
+2012,East,Orlando Magic,37,29,.561
+2012,East,New York Knicks,36,30,.545
+2012,East,Philadelphia 76ers,35,31,.530
+2012,East,Milwaukee Bucks,31,35,.470
+2012,East,Detroit Pistons,25,41,.379
+2012,East,Toronto Raptors,23,43,.348
+2012,East,New Jersey Nets,22,44,.333
+2012,East,Cleveland Cavaliers,21,45,.318
+2012,East,Washington Wizards,20,46,.303
+2012,East,Charlotte Bobcats,7,59,.106
+2012,West,San Antonio Spurs,50,16,.758
+2012,West,Oklahoma City Thunder,47,19,.712
+2012,West,Los Angeles Lakers,41,25,.621
+2012,West,Memphis Grizzlies,41,25,.621
+2012,West,Los Angeles Clippers,40,26,.606
+2012,West,Denver Nuggets,38,28,.576
+2012,West,Utah Jazz,36,30,.545
+2012,West,Dallas Mavericks,36,30,.545
+2012,West,Houston Rockets,34,32,.515
+2012,West,Phoenix Suns,33,33,.500
+2012,West,Portland Trail Blazers,28,38,.424
+2012,West,Minnesota Timberwolves,26,40,.394
+2012,West,Golden State Warriors,23,43,.348
+2012,West,Sacramento Kings,22,44,.333
+2012,West,New Orleans Hornets,21,45,.318
+2013,East,Miami Heat,66,16,.805
+2013,East,New York Knicks,54,28,.659
+2013,East,Brooklyn Nets,49,33,.598
+2013,East,Indiana Pacers,49,32,.605
+2013,East,Chicago Bulls,45,37,.549
+2013,East,Atlanta Hawks,44,38,.537
+2013,East,Boston Celtics,41,40,.506
+2013,East,Milwaukee Bucks,38,44,.463
+2013,East,Philadelphia 76ers,34,48,.415
+2013,East,Toronto Raptors,34,48,.415
+2013,East,Detroit Pistons,29,53,.354
+2013,East,Washington Wizards,29,53,.354
+2013,East,Cleveland Cavaliers,24,58,.293
+2013,East,Charlotte Bobcats,21,61,.256
+2013,East,Orlando Magic,20,62,.244
+2013,West,Oklahoma City Thunder,60,22,.732
+2013,West,San Antonio Spurs,58,24,.707
+2013,West,Denver Nuggets,57,25,.695
+2013,West,Los Angeles Clippers,56,26,.683
+2013,West,Memphis Grizzlies,56,26,.683
+2013,West,Golden State Warriors,47,35,.573
+2013,West,Los Angeles Lakers,45,37,.549
+2013,West,Houston Rockets,45,37,.549
+2013,West,Utah Jazz,43,39,.524
+2013,West,Dallas Mavericks,41,41,.500
+2013,West,Portland Trail Blazers,33,49,.402
+2013,West,Minnesota Timberwolves,31,51,.378
+2013,West,Sacramento Kings,28,54,.341
+2013,West,New Orleans Hornets,27,55,.329
+2013,West,Phoenix Suns,25,57,.305
+2014,East,Indiana Pacers,56,26,.683
+2014,East,Miami Heat,54,28,.659
+2014,East,Toronto Raptors,48,34,.585
+2014,East,Chicago Bulls,48,34,.585
+2014,East,Brooklyn Nets,44,38,.537
+2014,East,Washington Wizards,44,38,.537
+2014,East,Charlotte Bobcats,43,39,.524
+2014,East,Atlanta Hawks,38,44,.463
+2014,East,New York Knicks,37,45,.451
+2014,East,Cleveland Cavaliers,33,49,.402
+2014,East,Detroit Pistons,29,53,.354
+2014,East,Boston Celtics,25,57,.305
+2014,East,Orlando Magic,23,59,.280
+2014,East,Philadelphia 76ers,19,63,.232
+2014,East,Milwaukee Bucks,15,67,.183
+2014,West,San Antonio Spurs,62,20,.756
+2014,West,Oklahoma City Thunder,59,23,.720
+2014,West,Los Angeles Clippers,57,25,.695
+2014,West,Portland Trail Blazers,54,28,.659
+2014,West,Houston Rockets,54,28,.659
+2014,West,Golden State Warriors,51,31,.622
+2014,West,Memphis Grizzlies,50,32,.610
+2014,West,Dallas Mavericks,49,33,.598
+2014,West,Phoenix Suns,48,34,.585
+2014,West,Minnesota Timberwolves,40,42,.488
+2014,West,Denver Nuggets,36,46,.439
+2014,West,New Orleans Pelicans,34,48,.415
+2014,West,Sacramento Kings,28,54,.341
+2014,West,Los Angeles Lakers,27,55,.329
+2014,West,Utah Jazz,25,57,.305
+2015,East,Atlanta Hawks,60,22,.732
+2015,East,Cleveland Cavaliers,53,29,.646
+2015,East,Chicago Bulls,50,32,.610
+2015,East,Toronto Raptors,49,33,.598
+2015,East,Washington Wizards,46,36,.561
+2015,East,Milwaukee Bucks,41,41,.500
+2015,East,Boston Celtics,40,42,.488
+2015,East,Brooklyn Nets,38,44,.463
+2015,East,Indiana Pacers,38,44,.463
+2015,East,Miami Heat,37,45,.451
+2015,East,Charlotte Hornets,33,49,.402
+2015,East,Detroit Pistons,32,50,.390
+2015,East,Orlando Magic,25,57,.305
+2015,East,Philadelphia 76ers,18,64,.220
+2015,East,New York Knicks,17,65,.207
+2015,West,Golden State Warriors,67,15,.817
+2015,West,Los Angeles Clippers,56,26,.683
+2015,West,Houston Rockets,56,26,.683
+2015,West,Memphis Grizzlies,55,27,.671
+2015,West,San Antonio Spurs,55,27,.671
+2015,West,Portland Trail Blazers,51,31,.622
+2015,West,Dallas Mavericks,50,32,.610
+2015,West,Oklahoma City Thunder,45,37,.549
+2015,West,New Orleans Pelicans,45,37,.549
+2015,West,Phoenix Suns,39,43,.476
+2015,West,Utah Jazz,38,44,.463
+2015,West,Denver Nuggets,30,52,.366
+2015,West,Sacramento Kings,29,53,.354
+2015,West,Los Angeles Lakers,21,61,.256
+2015,West,Minnesota Timberwolves,16,66,.195
+2016,East,Cleveland Cavaliers,57,25,0.695
+2016,East,Toronto Raptors,56,26,0.683
+2016,East,Miami Heat,48,34,0.585
+2016,East,Atlanta Hawks,48,34,0.585
+2016,East,Boston Celtics,48,34,0.585
+2016,East,Charlotte Hornets,48,34,0.585
+2016,East,Indiana Pacers,45,37,0.549
+2016,East,Detroit Pistons,44,38,0.537
+2016,East,Chicago Bulls,42,40,0.512
+2016,East,Washington Wizards,41,41,0.5
+2016,East,Orlando Magic,35,47,0.427
+2016,East,Milwaukee Bucks,33,49,0.402
+2016,East,New York Knicks,32,50,0.39
+2016,East,Brooklyn Nets,21,61,0.256
+2016,East,Philadelphia 76ers,10,72,0.122
+2016,West,Golden State Warriors,73,9,0.89
+2016,West,San Antonio Spurs,67,15,0.817
+2016,West,Oklahoma City Thunder,55,27,0.671
+2016,West,Los Angeles Clippers,53,29,0.646
+2016,West,Portland Trail Blazers,44,38,0.537
+2016,West,Dallas Mavericks,42,40,0.512
+2016,West,Memphis Grizzlies,42,40,0.512
+2016,West,Houston Rockets,41,41,0.5
+2016,West,Utah Jazz,40,42,0.488
+2016,West,Sacramento Kings,33,49,0.402
+2016,West,Denver Nuggets,33,49,0.402
+2016,West,New Orleans Pelicans,30,52,0.366
+2016,West,Minnesota Timberwolves,29,53,0.354
+2016,West,Phoenix Suns,23,59,0.28
+2016,West,Los Angeles Lakers,17,65,0.207
+2017,East,Boston Celtics,53,29,0.646
+2017,East,Cleveland Cavaliers,51,31,0.622
+2017,East,Toronto Raptors,51,31,0.622
+2017,East,Washington Wizards,49,33,0.598
+2017,East,Atlanta Hawks,43,39,0.524
+2017,East,Milwaukee Bucks,42,40,0.512
+2017,East,Indiana Pacers,42,40,0.512
+2017,East,Chicago Bulls,41,41,0.5
+2017,East,Miami Heat,41,41,0.5
+2017,East,Detroit Pistons,37,45,0.451
+2017,East,Charlotte Hornets,36,46,0.439
+2017,East,New York Knicks,31,51,0.378
+2017,East,Orlando Magic,29,53,0.354
+2017,East,Philadelphia 76ers,28,54,0.341
+2017,East,Brooklyn Nets,20,62,0.244
+2017,West,Golden State Warriors,67,15,0.817
+2017,West,San Antonio Spurs,61,21,0.744
+2017,West,Houston Rockets,55,27,0.671
+2017,West,Los Angeles Clippers,51,31,0.622
+2017,West,Utah Jazz,51,31,0.622
+2017,West,Oklahoma City Thunder,47,35,0.573
+2017,West,Memphis Grizzlies,43,39,0.524
+2017,West,Portland Trail Blazers,41,41,0.5
+2017,West,Denver Nuggets,40,42,0.488
+2017,West,New Orleans Pelicans,34,48,0.415
+2017,West,Dallas Mavericks,33,49,0.402
+2017,West,Sacramento Kings,32,50,0.39
+2017,West,Minnesota Timberwolves,31,51,0.378
+2017,West,Los Angeles Lakers,26,56,0.317
+2017,West,Phoenix Suns,24,58,0.293
+2018,East,Toronto Raptors,59,23,0.72
+2018,East,Boston Celtics,55,27,0.671
+2018,East,Philadelphia 76ers,52,30,0.634
+2018,East,Cleveland Cavaliers,50,32,0.61
+2018,East,Indiana Pacers,48,34,0.585
+2018,East,Miami Heat,44,38,0.537
+2018,East,Milwaukee Bucks,44,38,0.537
+2018,East,Washington Wizards,43,39,0.524
+2018,East,Detroit Pistons,39,43,0.476
+2018,East,Charlotte Hornets,36,46,0.439
+2018,East,New York Knicks,29,53,0.354
+2018,East,Brooklyn Nets,28,54,0.341
+2018,East,Chicago Bulls,27,55,0.329
+2018,East,Orlando Magic,25,57,0.305
+2018,East,Atlanta Hawks,24,58,0.293
+2018,West,Houston Rockets,65,17,0.793
+2018,West,Golden State Warriors,58,24,0.707
+2018,West,Portland Trail Blazers,49,33,0.598
+2018,West,Oklahoma City Thunder,48,34,0.585
+2018,West,Utah Jazz,48,34,0.585
+2018,West,New Orleans Pelicans,48,34,0.585
+2018,West,San Antonio Spurs,47,35,0.573
+2018,West,Minnesota Timberwolves,47,35,0.573
+2018,West,Denver Nuggets,46,36,0.561
+2018,West,Los Angeles Clippers,42,40,0.512
+2018,West,Los Angeles Lakers,35,47,0.427
+2018,West,Sacramento Kings,27,55,0.329
+2018,West,Dallas Mavericks,24,58,0.293
+2018,West,Memphis Grizzlies,22,60,0.268
+2018,West,Phoenix Suns,21,61,0.256
+2019,East,Milwaukee Bucks,60,22,0.732
+2019,East,Toronto Raptors,58,24,0.707
+2019,East,Philadelphia 76ers,51,31,0.622
+2019,East,Boston Celtics,49,33,0.598
+2019,East,Indiana Pacers,48,34,0.585
+2019,East,Brooklyn Nets,42,40,0.512
+2019,East,Orlando Magic,42,40,0.512
+2019,East,Detroit Pistons,41,41,0.5
+2019,East,Charlotte Hornets,39,43,0.476
+2019,East,Miami Heat,39,43,0.476
+2019,East,Washington Wizards,32,50,0.39
+2019,East,Atlanta Hawks,29,53,0.354
+2019,East,Chicago Bulls,22,60,0.268
+2019,East,Cleveland Cavaliers,19,63,0.232
+2019,East,New York Knicks,17,65,0.207
+2019,West,Golden State Warriors,57,25,0.695
+2019,West,Denver Nuggets,54,28,0.659
+2019,West,Portland Trail Blazers,53,29,0.646
+2019,West,Houston Rockets,53,29,0.646
+2019,West,Utah Jazz,50,32,0.61
+2019,West,Oklahoma City Thunder,49,33,0.598
+2019,West,San Antonio Spurs,48,34,0.585
+2019,West,Los Angeles Clippers,48,34,0.585
+2019,West,Sacramento Kings,39,43,0.476
+2019,West,Los Angeles Lakers,37,45,0.451
+2019,West,Minnesota Timberwolves,36,46,0.439
+2019,West,Memphis Grizzlies,33,49,0.402
+2019,West,New Orleans Pelicans,33,49,0.402
+2019,West,Dallas Mavericks,33,49,0.402
+2019,West,Phoenix Suns,19,63,0.232
+2020,East,Milwaukee Bucks,56,17,0.767
+2020,East,Toronto Raptors,53,19,0.736
+2020,East,Boston Celtics,48,24,0.667
+2020,East,Indiana Pacers,45,28,0.616
+2020,East,Miami Heat,44,29,0.603
+2020,East,Philadelphia 76ers,43,30,0.589
+2020,East,Brooklyn Nets,35,37,0.486
+2020,East,Orlando Magic,33,40,0.452
+2020,East,Washington Wizards,25,47,0.347
+2020,East,Charlotte Hornets,23,42,0.354
+2020,East,Chicago Bulls,22,43,0.338
+2020,East,New York Knicks,21,45,0.318
+2020,East,Detroit Pistons,20,46,0.303
+2020,East,Atlanta Hawks,20,47,0.299
+2020,East,Cleveland Cavaliers,19,46,0.292
+2020,West,Los Angeles Lakers,52,19,0.732
+2020,West,Los Angeles Clippers,49,23,0.681
+2020,West,Denver Nuggets,46,27,0.63
+2020,West,Houston Rockets,44,28,0.611
+2020,West,Oklahoma City Thunder,44,28,0.611
+2020,West,Utah Jazz,44,28,0.611
+2020,West,Dallas Mavericks,43,32,0.573
+2020,West,Portland Trail Blazers,35,39,0.473
+2020,West,Memphis Grizzlies,34,39,0.466
+2020,West,Phoenix Suns,34,39,0.466
+2020,West,San Antonio Spurs,32,39,0.451
+2020,West,Sacramento Kings,31,41,0.431
+2020,West,New Orleans Pelicans,30,42,0.417
+2020,West,Minnesota Timberwolves,19,45,0.297
+2020,West,Golden State Warriors,15,50,0.231
+2021,East,Philadelphia 76ers,49,23,0.681
+2021,East,Brooklyn Nets,48,24,0.667
+2021,East,Milwaukee Bucks,46,26,0.639
+2021,East,New York Knicks,41,31,0.569
+2021,East,Atlanta Hawks,41,31,0.569
+2021,East,Miami Heat,40,32,0.556
+2021,East,Boston Celtics,36,36,0.5
+2021,East,Washington Wizards,34,38,0.472
+2021,East,Indiana Pacers,34,38,0.472
+2021,East,Charlotte Hornets,33,39,0.458
+2021,East,Chicago Bulls,31,41,0.431
+2021,East,Toronto Raptors,27,45,0.375
+2021,East,Cleveland Cavaliers,22,50,0.306
+2021,East,Orlando Magic,21,51,0.292
+2021,East,Detroit Pistons,20,52,0.278
+2021,West,Utah Jazz,52,20,0.722
+2021,West,Phoenix Suns,51,21,0.708
+2021,West,Denver Nuggets,47,25,0.653
+2021,West,Los Angeles Clippers,47,25,0.653
+2021,West,Dallas Mavericks,42,30,0.583
+2021,West,Portland Trail Blazers,42,30,0.583
+2021,West,Los Angeles Lakers,42,30,0.583
+2021,West,Golden State Warriors,39,33,0.542
+2021,West,Memphis Grizzlies,38,34,0.528
+2021,West,San Antonio Spurs,33,39,0.458
+2021,West,New Orleans Pelicans,31,41,0.431
+2021,West,Sacramento Kings,31,41,0.431
+2021,West,Minnesota Timberwolves,23,49,0.319
+2021,West,Oklahoma City Thunder,22,50,0.306
+2021,West,Houston Rockets,17,55,0.236
+2022,East,Miami Heat,53,29,0.646
+2022,East,Boston Celtics,51,31,0.622
+2022,East,Milwaukee Bucks,51,31,0.622
+2022,East,Philadelphia 76ers,51,31,0.622
+2022,East,Toronto Raptors,48,34,0.585
+2022,East,Chicago Bulls,46,36,0.561
+2022,East,Brooklyn Nets,44,38,0.537
+2022,East,Cleveland Cavaliers,44,38,0.537
+2022,East,Atlanta Hawks,43,39,0.524
+2022,East,Charlotte Hornets,43,39,0.524
+2022,East,New York Knicks,37,45,0.451
+2022,East,Washington Wizards,35,47,0.427
+2022,East,Indiana Pacers,25,57,0.305
+2022,East,Detroit Pistons,23,59,0.28
+2022,East,Orlando Magic,22,60,0.268
+2022,West,Phoenix Suns,64,18,0.78
+2022,West,Memphis Grizzlies,56,26,0.683
+2022,West,Golden State Warriors,53,29,0.646
+2022,West,Dallas Mavericks,52,30,0.634
+2022,West,Utah Jazz,49,33,0.598
+2022,West,Denver Nuggets,48,34,0.585
+2022,West,Minnesota Timberwolves,46,36,0.561
+2022,West,Los Angeles Clippers,42,40,0.512
+2022,West,New Orleans Pelicans,36,46,0.439
+2022,West,San Antonio Spurs,34,48,0.415
+2022,West,Los Angeles Lakers,33,49,0.402
+2022,West,Sacramento Kings,30,52,0.366
+2022,West,Portland Trail Blazers,27,55,0.329
+2022,West,Oklahoma City Thunder,24,58,0.293
+2022,West,Houston Rockets,20,62,0.244
+2023,East,Milwaukee Bucks,58,24,0.707
+2023,East,Boston Celtics,57,25,0.695
+2023,East,Philadelphia 76ers,54,28,0.659
+2023,East,Cleveland Cavaliers,51,31,0.622
+2023,East,New York Knicks,47,35,0.573
+2023,East,Brooklyn Nets,45,37,0.549
+2023,East,Miami Heat,44,38,0.537
+2023,East,Atlanta Hawks,41,41,0.5
+2023,East,Toronto Raptors,41,41,0.5
+2023,East,Chicago Bulls,40,42,0.488
+2023,East,Indiana Pacers,35,47,0.427
+2023,East,Washington Wizards,35,47,0.427
+2023,East,Orlando Magic,34,48,0.415
+2023,East,Charlotte Hornets,27,55,0.329
+2023,East,Detroit Pistons,17,65,0.207
+2023,West,Denver Nuggets,53,29,0.646
+2023,West,Memphis Grizzlies,51,31,0.622
+2023,West,Sacramento Kings,48,34,0.585
+2023,West,Phoenix Suns,45,37,0.549
+2023,West,Los Angeles Clippers,44,38,0.537
+2023,West,Golden State Warriors,44,38,0.537
+2023,West,Los Angeles Lakers,43,39,0.524
+2023,West,Minnesota Timberwolves,42,40,0.512
+2023,West,New Orleans Pelicans,42,40,0.512
+2023,West,Oklahoma City Thunder,40,42,0.488
+2023,West,Dallas Mavericks,38,44,0.463
+2023,West,Utah Jazz,37,45,0.451
+2023,West,Portland Trail Blazers,33,49,0.402
+2023,West,Houston Rockets,22,60,0.268
+2023,West,San Antonio Spurs,22,60,0.268
+2024,East,Boston Celtics,64,18,0.78
+2024,East,New York Knicks,50,32,0.61
+2024,East,Milwaukee Bucks,49,33,0.598
+2024,East,Cleveland Cavaliers,48,34,0.585
+2024,East,Orlando Magic,47,35,0.573
+2024,East,Indiana Pacers,47,35,0.573
+2024,East,Philadelphia 76ers,47,35,0.573
+2024,East,Miami Heat,46,36,0.561
+2024,East,Chicago Bulls,39,43,0.476
+2024,East,Atlanta Hawks,36,46,0.439
+2024,East,Brooklyn Nets,32,50,0.39
+2024,East,Toronto Raptors,25,57,0.305
+2024,East,Charlotte Hornets,21,61,0.256
+2024,East,Washington Wizards,15,67,0.183
+2024,East,Detroit Pistons,14,68,0.171
+2024,West,Oklahoma City Thunder,57,25,0.695
+2024,West,Denver Nuggets,57,25,0.695
+2024,West,Minnesota Timberwolves,56,26,0.683
+2024,West,Los Angeles Clippers,51,31,0.622
+2024,West,Dallas Mavericks,50,32,0.61
+2024,West,Phoenix Suns,49,33,0.598
+2024,West,New Orleans Pelicans,49,33,0.598
+2024,West,Los Angeles Lakers,47,35,0.573
+2024,West,Sacramento Kings,46,36,0.561
+2024,West,Golden State Warriors,46,36,0.561
+2024,West,Houston Rockets,41,41,0.5
+2024,West,Utah Jazz,31,51,0.378
+2024,West,Memphis Grizzlies,27,55,0.329
+2024,West,San Antonio Spurs,22,60,0.268
+2024,West,Portland Trail Blazers,21,61,0.256
