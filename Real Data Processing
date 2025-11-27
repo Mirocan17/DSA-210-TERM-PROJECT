@@ -1,0 +1,24 @@
+import pandas as pd
+import time
+years = range(1994, 2025) 
+all_drafts = []
+print("Data processing..")
+for year in years:
+    url = f"https://www.basketball-reference.com/draft/NBA_{year}.html"
+    try:
+        dfs = pd.read_html(url, header=[0, 1])
+        df = dfs[0]
+        if 'Advanced' in df.columns.get_level_values(0):
+            df = df.drop('Advanced', axis=1, level=0)
+        df = df[df[('Round 1', 'Player')] != 'Player']
+        df['Year'] = year
+        all_drafts.append(df)
+        print(f"{year} is done")
+        time.sleep(3)
+    except Exception as e:
+        print(f"{year} problem: {e}")
+final_df = pd.concat(all_drafts, ignore_index=True)
+final_df.to_csv('nba_drafts_1994_2024_cleaned.csv', index=False)
+print("\nJobs done.")
+from google.colab import files
+files.download('nba_drafts_1994_2024_cleaned.csv')
