@@ -1,0 +1,916 @@
+Year,Conference,Team,Playoff_Finish
+1994,East,New York Knicks,Finals
+1994,East,Atlanta Hawks,2nd Round
+1994,East,Chicago Bulls,2nd Round
+1994,East,Orlando Magic,1st Round
+1994,East,Indiana Pacers,Conf. Finals
+1994,East,Cleveland Cavaliers,1st Round
+1994,East,New Jersey Nets,1st Round
+1994,East,Miami Heat,1st Round
+1994,East,Charlotte Hornets,Missed Playoffs
+1994,East,Boston Celtics,Missed Playoffs
+1994,East,Philadelphia 76ers,Missed Playoffs
+1994,East,Washington Bullets,Missed Playoffs
+1994,East,Milwaukee Bucks,Missed Playoffs
+1994,East,Detroit Pistons,Missed Playoffs
+1994,West,Seattle SuperSonics,1st Round
+1994,West,Houston Rockets,Champion
+1994,West,Phoenix Suns,2nd Round
+1994,West,San Antonio Spurs,1st Round
+1994,West,Utah Jazz,Conf. Finals
+1994,West,Golden State Warriors,1st Round
+1994,West,Portland Trail Blazers,1st Round
+1994,West,Denver Nuggets,2nd Round
+1994,West,Los Angeles Lakers,Missed Playoffs
+1994,West,Sacramento Kings,Missed Playoffs
+1994,West,Los Angeles Clippers,Missed Playoffs
+1994,West,Minnesota Timberwolves,Missed Playoffs
+1994,West,Dallas Mavericks,Missed Playoffs
+1995,East,Orlando Magic,Finals
+1995,East,New York Knicks,2nd Round
+1995,East,Indiana Pacers,Conf. Finals
+1995,East,Charlotte Hornets,1st Round
+1995,East,Chicago Bulls,2nd Round
+1995,East,Cleveland Cavaliers,1st Round
+1995,East,Atlanta Hawks,1st Round
+1995,East,Boston Celtics,1st Round
+1995,East,Milwaukee Bucks,Missed Playoffs
+1995,East,Miami Heat,Missed Playoffs
+1995,East,New Jersey Nets,Missed Playoffs
+1995,East,Detroit Pistons,Missed Playoffs
+1995,East,Philadelphia 76ers,Missed Playoffs
+1995,East,Washington Bullets,Missed Playoffs
+1995,West,San Antonio Spurs,Conf. Finals
+1995,West,Utah Jazz,1st Round
+1995,West,Phoenix Suns,2nd Round
+1995,West,Seattle SuperSonics,1st Round
+1995,West,Los Angeles Lakers,2nd Round
+1995,West,Houston Rockets,Champion
+1995,West,Portland Trail Blazers,1st Round
+1995,West,Denver Nuggets,1st Round
+1995,West,Sacramento Kings,Missed Playoffs
+1995,West,Dallas Mavericks,Missed Playoffs
+1995,West,Golden State Warriors,Missed Playoffs
+1995,West,Minnesota Timberwolves,Missed Playoffs
+1995,West,Los Angeles Clippers,Missed Playoffs
+1996,East,Chicago Bulls,Champion
+1996,East,Orlando Magic,Conf. Finals
+1996,East,Indiana Pacers,1st Round
+1996,East,New York Knicks,2nd Round
+1996,East,Cleveland Cavaliers,1st Round
+1996,East,Atlanta Hawks,2nd Round
+1996,East,Detroit Pistons,1st Round
+1996,East,Miami Heat,1st Round
+1996,East,Charlotte Hornets,Missed Playoffs
+1996,East,Washington Bullets,Missed Playoffs
+1996,East,Boston Celtics,Missed Playoffs
+1996,East,New Jersey Nets,Missed Playoffs
+1996,East,Milwaukee Bucks,Missed Playoffs
+1996,East,Toronto Raptors,Missed Playoffs
+1996,East,Philadelphia 76ers,Missed Playoffs
+1996,West,Seattle SuperSonics,Finals
+1996,West,San Antonio Spurs,2nd Round
+1996,West,Utah Jazz,Conf. Finals
+1996,West,Los Angeles Lakers,1st Round
+1996,West,Houston Rockets,2nd Round
+1996,West,Portland Trail Blazers,1st Round
+1996,West,Phoenix Suns,1st Round
+1996,West,Sacramento Kings,1st Round
+1996,West,Golden State Warriors,Missed Playoffs
+1996,West,Denver Nuggets,Missed Playoffs
+1996,West,Los Angeles Clippers,Missed Playoffs
+1996,West,Minnesota Timberwolves,Missed Playoffs
+1996,West,Dallas Mavericks,Missed Playoffs
+1996,West,Vancouver Grizzlies,Missed Playoffs
+1997,East,Chicago Bulls,Champion
+1997,East,Miami Heat,Conf. Finals
+1997,East,New York Knicks,2nd Round
+1997,East,Atlanta Hawks,2nd Round
+1997,East,Detroit Pistons,1st Round
+1997,East,Charlotte Hornets,1st Round
+1997,East,Orlando Magic,1st Round
+1997,East,Washington Bullets,1st Round
+1997,East,Cleveland Cavaliers,Missed Playoffs
+1997,East,Indiana Pacers,Missed Playoffs
+1997,East,Milwaukee Bucks,Missed Playoffs
+1997,East,Toronto Raptors,Missed Playoffs
+1997,East,New Jersey Nets,Missed Playoffs
+1997,East,Philadelphia 76ers,Missed Playoffs
+1997,East,Boston Celtics,Missed Playoffs
+1997,West,Utah Jazz,Finals
+1997,West,Houston Rockets,Conf. Finals
+1997,West,Seattle SuperSonics,2nd Round
+1997,West,Los Angeles Lakers,2nd Round
+1997,West,Portland Trail Blazers,1st Round
+1997,West,Minnesota Timberwolves,1st Round
+1997,West,Phoenix Suns,1st Round
+1997,West,Los Angeles Clippers,1st Round
+1997,West,Sacramento Kings,Missed Playoffs
+1997,West,Golden State Warriors,Missed Playoffs
+1997,West,Dallas Mavericks,Missed Playoffs
+1997,West,Denver Nuggets,Missed Playoffs
+1997,West,San Antonio Spurs,Missed Playoffs
+1997,West,Vancouver Grizzlies,Missed Playoffs
+1998,East,Chicago Bulls,Champion
+1998,East,Indiana Pacers,Conf. Finals
+1998,East,Miami Heat,1st Round
+1998,East,Charlotte Hornets,2nd Round
+1998,East,Atlanta Hawks,1st Round
+1998,East,Cleveland Cavaliers,1st Round
+1998,East,New York Knicks,2nd Round
+1998,East,New Jersey Nets,1st Round
+1998,East,Washington Wizards,Missed Playoffs
+1998,East,Orlando Magic,Missed Playoffs
+1998,East,Detroit Pistons,Missed Playoffs
+1998,East,Boston Celtics,Missed Playoffs
+1998,East,Milwaukee Bucks,Missed Playoffs
+1998,East,Philadelphia 76ers,Missed Playoffs
+1998,East,Toronto Raptors,Missed Playoffs
+1998,West,Utah Jazz,Finals
+1998,West,Seattle SuperSonics,2nd Round
+1998,West,Los Angeles Lakers,Conf. Finals
+1998,West,San Antonio Spurs,2nd Round
+1998,West,Phoenix Suns,1st Round
+1998,West,Portland Trail Blazers,1st Round
+1998,West,Minnesota Timberwolves,1st Round
+1998,West,Houston Rockets,1st Round
+1998,West,Sacramento Kings,Missed Playoffs
+1998,West,Dallas Mavericks,Missed Playoffs
+1998,West,Vancouver Grizzlies,Missed Playoffs
+1998,West,Golden State Warriors,Missed Playoffs
+1998,West,Los Angeles Clippers,Missed Playoffs
+1998,West,Denver Nuggets,Missed Playoffs
+1999,East,Miami Heat,1st Round
+1999,East,Orlando Magic,1st Round
+1999,East,Indiana Pacers,Conf. Finals
+1999,East,Atlanta Hawks,2nd Round
+1999,East,Detroit Pistons,1st Round
+1999,East,Philadelphia 76ers,2nd Round
+1999,East,Milwaukee Bucks,1st Round
+1999,East,New York Knicks,Finals
+1999,East,Charlotte Hornets,Missed Playoffs
+1999,East,Toronto Raptors,Missed Playoffs
+1999,East,Cleveland Cavaliers,Missed Playoffs
+1999,East,Boston Celtics,Missed Playoffs
+1999,East,Washington Wizards,Missed Playoffs
+1999,East,New Jersey Nets,Missed Playoffs
+1999,East,Chicago Bulls,Missed Playoffs
+1999,West,San Antonio Spurs,Champion
+1999,West,Utah Jazz,2nd Round
+1999,West,Portland Trail Blazers,Conf. Finals
+1999,West,Houston Rockets,1st Round
+1999,West,Los Angeles Lakers,2nd Round
+1999,West,Phoenix Suns,1st Round
+1999,West,Sacramento Kings,1st Round
+1999,West,Minnesota Timberwolves,1st Round
+1999,West,Seattle SuperSonics,Missed Playoffs
+1999,West,Golden State Warriors,Missed Playoffs
+1999,West,Dallas Mavericks,Missed Playoffs
+1999,West,Denver Nuggets,Missed Playoffs
+1999,West,Los Angeles Clippers,Missed Playoffs
+1999,West,Vancouver Grizzlies,Missed Playoffs
+2000,East,Indiana Pacers,Finals
+2000,East,Miami Heat,2nd Round
+2000,East,New York Knicks,Conf. Finals
+2000,East,Philadelphia 76ers,2nd Round
+2000,East,Charlotte Hornets,1st Round
+2000,East,Toronto Raptors,1st Round
+2000,East,Detroit Pistons,1st Round
+2000,East,Milwaukee Bucks,1st Round
+2000,East,Orlando Magic,Missed Playoffs
+2000,East,Boston Celtics,Missed Playoffs
+2000,East,Cleveland Cavaliers,Missed Playoffs
+2000,East,New Jersey Nets,Missed Playoffs
+2000,East,Washington Wizards,Missed Playoffs
+2000,East,Atlanta Hawks,Missed Playoffs
+2000,East,Chicago Bulls,Missed Playoffs
+2000,West,Los Angeles Lakers,Champion
+2000,West,Portland Trail Blazers,Conf. Finals
+2000,West,Utah Jazz,2nd Round
+2000,West,San Antonio Spurs,1st Round
+2000,West,Phoenix Suns,2nd Round
+2000,West,Minnesota Timberwolves,1st Round
+2000,West,Seattle SuperSonics,1st Round
+2000,West,Sacramento Kings,1st Round
+2000,West,Dallas Mavericks,Missed Playoffs
+2000,West,Denver Nuggets,Missed Playoffs
+2000,West,Houston Rockets,Missed Playoffs
+2000,West,Vancouver Grizzlies,Missed Playoffs
+2000,West,Golden State Warriors,Missed Playoffs
+2000,West,Los Angeles Clippers,Missed Playoffs
+2001,East,Philadelphia 76ers,Finals
+2001,East,Milwaukee Bucks,Conf. Finals
+2001,East,Miami Heat,1st Round
+2001,East,New York Knicks,1st Round
+2001,East,Toronto Raptors,2nd Round
+2001,East,Charlotte Hornets,2nd Round
+2001,East,Orlando Magic,1st Round
+2001,East,Indiana Pacers,1st Round
+2001,East,Boston Celtics,Missed Playoffs
+2001,East,Detroit Pistons,Missed Playoffs
+2001,East,Cleveland Cavaliers,Missed Playoffs
+2001,East,New Jersey Nets,Missed Playoffs
+2001,East,Atlanta Hawks,Missed Playoffs
+2001,East,Washington Wizards,Missed Playoffs
+2001,East,Chicago Bulls,Missed Playoffs
+2001,West,San Antonio Spurs,Conf. Finals
+2001,West,Los Angeles Lakers,Champion
+2001,West,Sacramento Kings,2nd Round
+2001,West,Utah Jazz,1st Round
+2001,West,Dallas Mavericks,2nd Round
+2001,West,Phoenix Suns,1st Round
+2001,West,Portland Trail Blazers,1st Round
+2001,West,Minnesota Timberwolves,1st Round
+2001,West,Houston Rockets,Missed Playoffs
+2001,West,Seattle SuperSonics,Missed Playoffs
+2001,West,Denver Nuggets,Missed Playoffs
+2001,West,Los Angeles Clippers,Missed Playoffs
+2001,West,Vancouver Grizzlies,Missed Playoffs
+2001,West,Golden State Warriors,Missed Playoffs
+2002,East,New Jersey Nets,Finals
+2002,East,Detroit Pistons,2nd Round
+2002,East,Boston Celtics,Conf. Finals
+2002,East,Orlando Magic,1st Round
+2002,East,Charlotte Hornets,2nd Round
+2002,East,Philadelphia 76ers,1st Round
+2002,East,Toronto Raptors,1st Round
+2002,East,Indiana Pacers,1st Round
+2002,East,Milwaukee Bucks,Missed Playoffs
+2002,East,Washington Wizards,Missed Playoffs
+2002,East,Miami Heat,Missed Playoffs
+2002,East,Atlanta Hawks,Missed Playoffs
+2002,East,New York Knicks,Missed Playoffs
+2002,East,Cleveland Cavaliers,Missed Playoffs
+2002,East,Chicago Bulls,Missed Playoffs
+2002,West,Sacramento Kings,Conf. Finals
+2002,West,San Antonio Spurs,2nd Round
+2002,West,Los Angeles Lakers,Champion
+2002,West,Dallas Mavericks,2nd Round
+2002,West,Minnesota Timberwolves,1st Round
+2002,West,Portland Trail Blazers,1st Round
+2002,West,Seattle SuperSonics,1st Round
+2002,West,Utah Jazz,1st Round
+2002,West,Los Angeles Clippers,Missed Playoffs
+2002,West,Phoenix Suns,Missed Playoffs
+2002,West,Houston Rockets,Missed Playoffs
+2002,West,Denver Nuggets,Missed Playoffs
+2002,West,Memphis Grizzlies,Missed Playoffs
+2002,West,Golden State Warriors,Missed Playoffs
+2003,East,Detroit Pistons,Conf. Finals
+2003,East,New Jersey Nets,Finals
+2003,East,Philadelphia 76ers,2nd Round
+2003,East,Indiana Pacers,1st Round
+2003,East,Boston Celtics,2nd Round
+2003,East,Orlando Magic,1st Round
+2003,East,Milwaukee Bucks,1st Round
+2003,East,Washington Wizards,1st Round
+2003,East,New York Knicks,Missed Playoffs
+2003,East,Atlanta Hawks,Missed Playoffs
+2003,East,Chicago Bulls,Missed Playoffs
+2003,East,Miami Heat,Missed Playoffs
+2003,East,Toronto Raptors,Missed Playoffs
+2003,East,Cleveland Cavaliers,Missed Playoffs
+2003,West,San Antonio Spurs,Champion
+2003,West,Dallas Mavericks,Conf. Finals
+2003,West,Sacramento Kings,2nd Round
+2003,West,Minnesota Timberwolves,1st Round
+2003,West,Los Angeles Lakers,2nd Round
+2003,West,Portland Trail Blazers,1st Round
+2003,West,New Orleans Hornets,1st Round
+2003,West,Utah Jazz,1st Round
+2003,West,Phoenix Suns,Missed Playoffs
+2003,West,Houston Rockets,Missed Playoffs
+2003,West,Seattle SuperSonics,Missed Playoffs
+2003,West,Golden State Warriors,Missed Playoffs
+2003,West,Memphis Grizzlies,Missed Playoffs
+2003,West,Los Angeles Clippers,Missed Playoffs
+2003,West,Denver Nuggets,Missed Playoffs
+2004,East,Indiana Pacers,Conf. Finals
+2004,East,Detroit Pistons,Champion
+2004,East,New Jersey Nets,2nd Round
+2004,East,Miami Heat,2nd Round
+2004,East,Milwaukee Bucks,1st Round
+2004,East,New York Knicks,1st Round
+2004,East,Boston Celtics,1st Round
+2004,East,Cleveland Cavaliers,1st Round
+2004,East,Philadelphia 76ers,Missed Playoffs
+2004,East,Toronto Raptors,Missed Playoffs
+2004,East,Atlanta Hawks,Missed Playoffs
+2004,East,Washington Wizards,Missed Playoffs
+2004,East,Chicago Bulls,Missed Playoffs
+2004,East,Orlando Magic,Missed Playoffs
+2004,West,Minnesota Timberwolves,Conf. Finals
+2004,West,San Antonio Spurs,2nd Round
+2004,West,Los Angeles Lakers,Finals
+2004,West,Sacramento Kings,2nd Round
+2004,West,Dallas Mavericks,1st Round
+2004,West,Memphis Grizzlies,1st Round
+2004,West,Houston Rockets,1st Round
+2004,West,Denver Nuggets,1st Round
+2004,West,Utah Jazz,Missed Playoffs
+2004,West,New Orleans Hornets,Missed Playoffs
+2004,West,Portland Trail Blazers,Missed Playoffs
+2004,West,Golden State Warriors,Missed Playoffs
+2004,West,Seattle SuperSonics,Missed Playoffs
+2004,West,Phoenix Suns,Missed Playoffs
+2004,West,Los Angeles Clippers,Missed Playoffs
+2005,East,Miami Heat,Conf. Finals
+2005,East,Detroit Pistons,Finals
+2005,East,Chicago Bulls,1st Round
+2005,East,Boston Celtics,1st Round
+2005,East,Washington Wizards,2nd Round
+2005,East,Indiana Pacers,2nd Round
+2005,East,Philadelphia 76ers,1st Round
+2005,East,New Jersey Nets,1st Round
+2005,East,Cleveland Cavaliers,Missed Playoffs
+2005,East,Orlando Magic,Missed Playoffs
+2005,East,Toronto Raptors,Missed Playoffs
+2005,East,New York Knicks,Missed Playoffs
+2005,East,Milwaukee Bucks,Missed Playoffs
+2005,East,Charlotte Bobcats,Missed Playoffs
+2005,East,Atlanta Hawks,Missed Playoffs
+2005,West,Phoenix Suns,Conf. Finals
+2005,West,San Antonio Spurs,Champion
+2005,West,Dallas Mavericks,2nd Round
+2005,West,Seattle SuperSonics,2nd Round
+2005,West,Houston Rockets,1st Round
+2005,West,Sacramento Kings,1st Round
+2005,West,Denver Nuggets,1st Round
+2005,West,Memphis Grizzlies,1st Round
+2005,West,Minnesota Timberwolves,Missed Playoffs
+2005,West,Los Angeles Clippers,Missed Playoffs
+2005,West,Los Angeles Lakers,Missed Playoffs
+2005,West,Golden State Warriors,Missed Playoffs
+2005,West,Portland Trail Blazers,Missed Playoffs
+2005,West,Utah Jazz,Missed Playoffs
+2005,West,New Orleans Hornets,Missed Playoffs
+2006,East,Detroit Pistons,Conf. Finals
+2006,East,Miami Heat,Champion
+2006,East,Cleveland Cavaliers,2nd Round
+2006,East,New Jersey Nets,2nd Round
+2006,East,Washington Wizards,1st Round
+2006,East,Indiana Pacers,1st Round
+2006,East,Chicago Bulls,1st Round
+2006,East,Milwaukee Bucks,1st Round
+2006,East,Philadelphia 76ers,Missed Playoffs
+2006,East,Orlando Magic,Missed Playoffs
+2006,East,Boston Celtics,Missed Playoffs
+2006,East,Toronto Raptors,Missed Playoffs
+2006,East,Charlotte Bobcats,Missed Playoffs
+2006,East,Atlanta Hawks,Missed Playoffs
+2006,East,New York Knicks,Missed Playoffs
+2006,West,San Antonio Spurs,2nd Round
+2006,West,Dallas Mavericks,Finals
+2006,West,Phoenix Suns,Conf. Finals
+2006,West,Memphis Grizzlies,1st Round
+2006,West,Los Angeles Clippers,2nd Round
+2006,West,Los Angeles Lakers,1st Round
+2006,West,Denver Nuggets,1st Round
+2006,West,Sacramento Kings,1st Round
+2006,West,Utah Jazz,Missed Playoffs
+2006,West,Seattle SuperSonics,Missed Playoffs
+2006,West,Golden State Warriors,Missed Playoffs
+2006,West,Houston Rockets,Missed Playoffs
+2006,West,Minnesota Timberwolves,Missed Playoffs
+2006,West,Portland Trail Blazers,Missed Playoffs
+2006,,New Orleans/Oklahoma City Hornets,Missed Playoffs
+2007,East,Detroit Pistons,Conf. Finals
+2007,East,Cleveland Cavaliers,Finals
+2007,East,Chicago Bulls,2nd Round
+2007,East,Toronto Raptors,1st Round
+2007,East,Miami Heat,1st Round
+2007,East,New Jersey Nets,2nd Round
+2007,East,Washington Wizards,1st Round
+2007,East,Orlando Magic,1st Round
+2007,East,Philadelphia 76ers,Missed Playoffs
+2007,East,Indiana Pacers,Missed Playoffs
+2007,East,New York Knicks,Missed Playoffs
+2007,East,Charlotte Bobcats,Missed Playoffs
+2007,East,Atlanta Hawks,Missed Playoffs
+2007,East,Milwaukee Bucks,Missed Playoffs
+2007,East,Boston Celtics,Missed Playoffs
+2007,West,Dallas Mavericks,1st Round
+2007,West,Phoenix Suns,2nd Round
+2007,West,San Antonio Spurs,Champion
+2007,West,Houston Rockets,1st Round
+2007,West,Utah Jazz,Conf. Finals
+2007,West,Denver Nuggets,1st Round
+2007,West,Los Angeles Lakers,1st Round
+2007,West,Golden State Warriors,2nd Round
+2007,West,Los Angeles Clippers,Missed Playoffs
+2007,West,Sacramento Kings,Missed Playoffs
+2007,West,Portland Trail Blazers,Missed Playoffs
+2007,West,Minnesota Timberwolves,Missed Playoffs
+2007,West,Seattle SuperSonics,Missed Playoffs
+2007,West,Memphis Grizzlies,Missed Playoffs
+2007,,New Orleans/Oklahoma City Hornets,Missed Playoffs
+2008,East,Boston Celtics,Champion
+2008,East,Detroit Pistons,Conf. Finals
+2008,East,Orlando Magic,2nd Round
+2008,East,Cleveland Cavaliers,2nd Round
+2008,East,Washington Wizards,1st Round
+2008,East,Toronto Raptors,1st Round
+2008,East,Philadelphia 76ers,1st Round
+2008,East,Atlanta Hawks,1st Round
+2008,East,Indiana Pacers,Missed Playoffs
+2008,East,New Jersey Nets,Missed Playoffs
+2008,East,Chicago Bulls,Missed Playoffs
+2008,East,Charlotte Bobcats,Missed Playoffs
+2008,East,Milwaukee Bucks,Missed Playoffs
+2008,East,New York Knicks,Missed Playoffs
+2008,East,Miami Heat,Missed Playoffs
+2008,West,Los Angeles Lakers,Finals
+2008,West,New Orleans Hornets,2nd Round
+2008,West,San Antonio Spurs,Conf. Finals
+2008,West,Phoenix Suns,1st Round
+2008,West,Houston Rockets,1st Round
+2008,West,Utah Jazz,2nd Round
+2008,West,Dallas Mavericks,1st Round
+2008,West,Denver Nuggets,1st Round
+2008,West,Golden State Warriors,Missed Playoffs
+2008,West,Portland Trail Blazers,Missed Playoffs
+2008,West,Sacramento Kings,Missed Playoffs
+2008,West,Los Angeles Clippers,Missed Playoffs
+2008,West,Minnesota Timberwolves,Missed Playoffs
+2008,West,Memphis Grizzlies,Missed Playoffs
+2008,West,Seattle SuperSonics,Missed Playoffs
+2009,East,Cleveland Cavaliers,Conf. Finals
+2009,East,Boston Celtics,2nd Round
+2009,East,Orlando Magic,Finals
+2009,East,Atlanta Hawks,2nd Round
+2009,East,Miami Heat,1st Round
+2009,East,Philadelphia 76ers,1st Round
+2009,East,Chicago Bulls,1st Round
+2009,East,Detroit Pistons,1st Round
+2009,East,Indiana Pacers,Missed Playoffs
+2009,East,Charlotte Bobcats,Missed Playoffs
+2009,East,New Jersey Nets,Missed Playoffs
+2009,East,Milwaukee Bucks,Missed Playoffs
+2009,East,Toronto Raptors,Missed Playoffs
+2009,East,New York Knicks,Missed Playoffs
+2009,East,Washington Wizards,Missed Playoffs
+2009,West,Los Angeles Lakers,Champion
+2009,West,Denver Nuggets,Conf. Finals
+2009,West,Portland Trail Blazers,1st Round
+2009,West,San Antonio Spurs,1st Round
+2009,West,Houston Rockets,2nd Round
+2009,West,Dallas Mavericks,2nd Round
+2009,West,New Orleans Hornets,1st Round
+2009,West,Utah Jazz,1st Round
+2009,West,Phoenix Suns,Missed Playoffs
+2009,West,Golden State Warriors,Missed Playoffs
+2009,West,Minnesota Timberwolves,Missed Playoffs
+2009,West,Memphis Grizzlies,Missed Playoffs
+2009,West,Oklahoma City Thunder,Missed Playoffs
+2009,West,Los Angeles Clippers,Missed Playoffs
+2009,West,Sacramento Kings,Missed Playoffs
+2010,East,Cleveland Cavaliers,2nd Round
+2010,East,Orlando Magic,Conf. Finals
+2010,East,Atlanta Hawks,2nd Round
+2010,East,Boston Celtics,Finals
+2010,East,Miami Heat,1st Round
+2010,East,Milwaukee Bucks,1st Round
+2010,East,Charlotte Bobcats,1st Round
+2010,East,Chicago Bulls,1st Round
+2010,East,Toronto Raptors,Missed Playoffs
+2010,East,Indiana Pacers,Missed Playoffs
+2010,East,New York Knicks,Missed Playoffs
+2010,East,Philadelphia 76ers,Missed Playoffs
+2010,East,Detroit Pistons,Missed Playoffs
+2010,East,Washington Wizards,Missed Playoffs
+2010,East,New Jersey Nets,Missed Playoffs
+2010,West,Los Angeles Lakers,Champion
+2010,West,Dallas Mavericks,1st Round
+2010,West,Phoenix Suns,Conf. Finals
+2010,West,Denver Nuggets,1st Round
+2010,West,Utah Jazz,2nd Round
+2010,West,Portland Trail Blazers,1st Round
+2010,West,Oklahoma City Thunder,1st Round
+2010,West,San Antonio Spurs,2nd Round
+2010,West,Houston Rockets,Missed Playoffs
+2010,West,Memphis Grizzlies,Missed Playoffs
+2010,West,New Orleans Hornets,Missed Playoffs
+2010,West,Los Angeles Clippers,Missed Playoffs
+2010,West,Golden State Warriors,Missed Playoffs
+2010,West,Sacramento Kings,Missed Playoffs
+2010,West,Minnesota Timberwolves,Missed Playoffs
+2011,East,Chicago Bulls,Conf. Finals
+2011,East,Miami Heat,Finals
+2011,East,Boston Celtics,2nd Round
+2011,East,Orlando Magic,1st Round
+2011,East,Atlanta Hawks,2nd Round
+2011,East,New York Knicks,1st Round
+2011,East,Philadelphia 76ers,1st Round
+2011,East,Indiana Pacers,1st Round
+2011,East,Milwaukee Bucks,Missed Playoffs
+2011,East,Charlotte Bobcats,Missed Playoffs
+2011,East,Detroit Pistons,Missed Playoffs
+2011,East,New Jersey Nets,Missed Playoffs
+2011,East,Washington Wizards,Missed Playoffs
+2011,East,Toronto Raptors,Missed Playoffs
+2011,East,Cleveland Cavaliers,Missed Playoffs
+2011,West,San Antonio Spurs,1st Round
+2011,West,Los Angeles Lakers,2nd Round
+2011,West,Dallas Mavericks,Champion
+2011,West,Oklahoma City Thunder,Conf. Finals
+2011,West,Denver Nuggets,1st Round
+2011,West,Portland Trail Blazers,1st Round
+2011,West,New Orleans Hornets,1st Round
+2011,West,Memphis Grizzlies,2nd Round
+2011,West,Houston Rockets,Missed Playoffs
+2011,West,Phoenix Suns,Missed Playoffs
+2011,West,Utah Jazz,Missed Playoffs
+2011,West,Golden State Warriors,Missed Playoffs
+2011,West,Los Angeles Clippers,Missed Playoffs
+2011,West,Sacramento Kings,Missed Playoffs
+2011,West,Minnesota Timberwolves,Missed Playoffs
+2012,East,Chicago Bulls,1st Round
+2012,East,Miami Heat,Champion
+2012,East,Indiana Pacers,2nd Round
+2012,East,Atlanta Hawks,1st Round
+2012,East,Boston Celtics,Conf. Finals
+2012,East,Orlando Magic,1st Round
+2012,East,New York Knicks,1st Round
+2012,East,Philadelphia 76ers,2nd Round
+2012,East,Milwaukee Bucks,Missed Playoffs
+2012,East,Detroit Pistons,Missed Playoffs
+2012,East,Toronto Raptors,Missed Playoffs
+2012,East,New Jersey Nets,Missed Playoffs
+2012,East,Cleveland Cavaliers,Missed Playoffs
+2012,East,Washington Wizards,Missed Playoffs
+2012,East,Charlotte Bobcats,Missed Playoffs
+2012,West,San Antonio Spurs,Conf. Finals
+2012,West,Oklahoma City Thunder,Finals
+2012,West,Los Angeles Lakers,2nd Round
+2012,West,Memphis Grizzlies,1st Round
+2012,West,Los Angeles Clippers,2nd Round
+2012,West,Denver Nuggets,1st Round
+2012,West,Utah Jazz,1st Round
+2012,West,Dallas Mavericks,1st Round
+2012,West,Houston Rockets,Missed Playoffs
+2012,West,Phoenix Suns,Missed Playoffs
+2012,West,Portland Trail Blazers,Missed Playoffs
+2012,West,Minnesota Timberwolves,Missed Playoffs
+2012,West,Golden State Warriors,Missed Playoffs
+2012,West,Sacramento Kings,Missed Playoffs
+2012,West,New Orleans Hornets,Missed Playoffs
+2013,East,Miami Heat,Champion
+2013,East,New York Knicks,2nd Round
+2013,East,Brooklyn Nets,1st Round
+2013,East,Indiana Pacers,Conf. Finals
+2013,East,Chicago Bulls,2nd Round
+2013,East,Atlanta Hawks,1st Round
+2013,East,Boston Celtics,1st Round
+2013,East,Milwaukee Bucks,1st Round
+2013,East,Philadelphia 76ers,Missed Playoffs
+2013,East,Toronto Raptors,Missed Playoffs
+2013,East,Detroit Pistons,Missed Playoffs
+2013,East,Washington Wizards,Missed Playoffs
+2013,East,Cleveland Cavaliers,Missed Playoffs
+2013,East,Charlotte Bobcats,Missed Playoffs
+2013,East,Orlando Magic,Missed Playoffs
+2013,West,Oklahoma City Thunder,2nd Round
+2013,West,San Antonio Spurs,Finals
+2013,West,Denver Nuggets,1st Round
+2013,West,Los Angeles Clippers,1st Round
+2013,West,Memphis Grizzlies,Conf. Finals
+2013,West,Golden State Warriors,2nd Round
+2013,West,Los Angeles Lakers,1st Round
+2013,West,Houston Rockets,1st Round
+2013,West,Utah Jazz,Missed Playoffs
+2013,West,Dallas Mavericks,Missed Playoffs
+2013,West,Portland Trail Blazers,Missed Playoffs
+2013,West,Minnesota Timberwolves,Missed Playoffs
+2013,West,Sacramento Kings,Missed Playoffs
+2013,West,New Orleans Hornets,Missed Playoffs
+2013,West,Phoenix Suns,Missed Playoffs
+2014,East,Indiana Pacers,Conf. Finals
+2014,East,Miami Heat,Finals
+2014,East,Toronto Raptors,1st Round
+2014,East,Chicago Bulls,1st Round
+2014,East,Brooklyn Nets,2nd Round
+2014,East,Washington Wizards,2nd Round
+2014,East,Charlotte Bobcats,1st Round
+2014,East,Atlanta Hawks,1st Round
+2014,East,New York Knicks,Missed Playoffs
+2014,East,Cleveland Cavaliers,Missed Playoffs
+2014,East,Detroit Pistons,Missed Playoffs
+2014,East,Boston Celtics,Missed Playoffs
+2014,East,Orlando Magic,Missed Playoffs
+2014,East,Philadelphia 76ers,Missed Playoffs
+2014,East,Milwaukee Bucks,Missed Playoffs
+2014,West,San Antonio Spurs,Champion
+2014,West,Oklahoma City Thunder,Conf. Finals
+2014,West,Los Angeles Clippers,2nd Round
+2014,West,Portland Trail Blazers,2nd Round
+2014,West,Houston Rockets,1st Round
+2014,West,Golden State Warriors,1st Round
+2014,West,Memphis Grizzlies,1st Round
+2014,West,Dallas Mavericks,1st Round
+2014,West,Phoenix Suns,Missed Playoffs
+2014,West,Minnesota Timberwolves,Missed Playoffs
+2014,West,Denver Nuggets,Missed Playoffs
+2014,West,New Orleans Pelicans,Missed Playoffs
+2014,West,Sacramento Kings,Missed Playoffs
+2014,West,Los Angeles Lakers,Missed Playoffs
+2014,West,Utah Jazz,Missed Playoffs
+2015,East,Atlanta Hawks,Conf. Finals
+2015,East,Cleveland Cavaliers,Finals
+2015,East,Chicago Bulls,2nd Round
+2015,East,Toronto Raptors,1st Round
+2015,East,Washington Wizards,2nd Round
+2015,East,Milwaukee Bucks,1st Round
+2015,East,Boston Celtics,1st Round
+2015,East,Brooklyn Nets,1st Round
+2015,East,Indiana Pacers,Missed Playoffs
+2015,East,Miami Heat,Missed Playoffs
+2015,East,Charlotte Hornets,Missed Playoffs
+2015,East,Detroit Pistons,Missed Playoffs
+2015,East,Orlando Magic,Missed Playoffs
+2015,East,Philadelphia 76ers,Missed Playoffs
+2015,East,New York Knicks,Missed Playoffs
+2015,West,Golden State Warriors,Champion
+2015,West,Los Angeles Clippers,2nd Round
+2015,West,Houston Rockets,Conf. Finals
+2015,West,Memphis Grizzlies,2nd Round
+2015,West,San Antonio Spurs,1st Round
+2015,West,Portland Trail Blazers,1st Round
+2015,West,Dallas Mavericks,1st Round
+2015,West,Oklahoma City Thunder,1st Round
+2015,West,New Orleans Pelicans,Missed Playoffs
+2015,West,Phoenix Suns,Missed Playoffs
+2015,West,Utah Jazz,Missed Playoffs
+2015,West,Denver Nuggets,Missed Playoffs
+2015,West,Sacramento Kings,Missed Playoffs
+2015,West,Los Angeles Lakers,Missed Playoffs
+2015,West,Minnesota Timberwolves,Missed Playoffs
+2016,East,Cleveland Cavaliers,Champion
+2016,East,Toronto Raptors,Conf. Finals
+2016,East,Miami Heat,2nd Round
+2016,East,Atlanta Hawks,2nd Round
+2016,East,Boston Celtics,1st Round
+2016,East,Charlotte Hornets,1st Round
+2016,East,Indiana Pacers,1st Round
+2016,East,Detroit Pistons,1st Round
+2016,East,Chicago Bulls,Missed Playoffs
+2016,East,Washington Wizards,Missed Playoffs
+2016,East,Orlando Magic,Missed Playoffs
+2016,East,Milwaukee Bucks,Missed Playoffs
+2016,East,New York Knicks,Missed Playoffs
+2016,East,Brooklyn Nets,Missed Playoffs
+2016,East,Philadelphia 76ers,Missed Playoffs
+2016,West,Golden State Warriors,Finals
+2016,West,San Antonio Spurs,2nd Round
+2016,West,Oklahoma City Thunder,Conf. Finals
+2016,West,Los Angeles Clippers,1st Round
+2016,West,Portland Trail Blazers,2nd Round
+2016,West,Dallas Mavericks,1st Round
+2016,West,Memphis Grizzlies,1st Round
+2016,West,Houston Rockets,1st Round
+2016,West,Utah Jazz,Missed Playoffs
+2016,West,Sacramento Kings,Missed Playoffs
+2016,West,Denver Nuggets,Missed Playoffs
+2016,West,New Orleans Pelicans,Missed Playoffs
+2016,West,Minnesota Timberwolves,Missed Playoffs
+2016,West,Phoenix Suns,Missed Playoffs
+2016,West,Los Angeles Lakers,Missed Playoffs
+2017,East,Boston Celtics,Conf. Finals
+2017,East,Cleveland Cavaliers,Finals
+2017,East,Toronto Raptors,2nd Round
+2017,East,Washington Wizards,2nd Round
+2017,East,Atlanta Hawks,1st Round
+2017,East,Milwaukee Bucks,1st Round
+2017,East,Indiana Pacers,1st Round
+2017,East,Chicago Bulls,1st Round
+2017,East,Miami Heat,Missed Playoffs
+2017,East,Detroit Pistons,Missed Playoffs
+2017,East,Charlotte Hornets,Missed Playoffs
+2017,East,New York Knicks,Missed Playoffs
+2017,East,Orlando Magic,Missed Playoffs
+2017,East,Philadelphia 76ers,Missed Playoffs
+2017,East,Brooklyn Nets,Missed Playoffs
+2017,West,Golden State Warriors,Champion
+2017,West,San Antonio Spurs,Conf. Finals
+2017,West,Houston Rockets,2nd Round
+2017,West,Los Angeles Clippers,1st Round
+2017,West,Utah Jazz,2nd Round
+2017,West,Oklahoma City Thunder,1st Round
+2017,West,Memphis Grizzlies,1st Round
+2017,West,Portland Trail Blazers,1st Round
+2017,West,Denver Nuggets,Missed Playoffs
+2017,West,New Orleans Pelicans,Missed Playoffs
+2017,West,Dallas Mavericks,Missed Playoffs
+2017,West,Sacramento Kings,Missed Playoffs
+2017,West,Minnesota Timberwolves,Missed Playoffs
+2017,West,Los Angeles Lakers,Missed Playoffs
+2017,West,Phoenix Suns,Missed Playoffs
+2018,East,Toronto Raptors,2nd Round
+2018,East,Boston Celtics,Conf. Finals
+2018,East,Philadelphia 76ers,2nd Round
+2018,East,Cleveland Cavaliers,Finals
+2018,East,Indiana Pacers,1st Round
+2018,East,Miami Heat,1st Round
+2018,East,Milwaukee Bucks,1st Round
+2018,East,Washington Wizards,1st Round
+2018,East,Detroit Pistons,Missed Playoffs
+2018,East,Charlotte Hornets,Missed Playoffs
+2018,East,New York Knicks,Missed Playoffs
+2018,East,Brooklyn Nets,Missed Playoffs
+2018,East,Chicago Bulls,Missed Playoffs
+2018,East,Orlando Magic,Missed Playoffs
+2018,East,Atlanta Hawks,Missed Playoffs
+2018,West,Houston Rockets,Conf. Finals
+2018,West,Golden State Warriors,Champion
+2018,West,Portland Trail Blazers,1st Round
+2018,West,Oklahoma City Thunder,1st Round
+2018,West,Utah Jazz,2nd Round
+2018,West,New Orleans Pelicans,2nd Round
+2018,West,San Antonio Spurs,1st Round
+2018,West,Minnesota Timberwolves,1st Round
+2018,West,Denver Nuggets,Missed Playoffs
+2018,West,Los Angeles Clippers,Missed Playoffs
+2018,West,Los Angeles Lakers,Missed Playoffs
+2018,West,Sacramento Kings,Missed Playoffs
+2018,West,Dallas Mavericks,Missed Playoffs
+2018,West,Memphis Grizzlies,Missed Playoffs
+2018,West,Phoenix Suns,Missed Playoffs
+2019,East,Milwaukee Bucks,Conf. Finals
+2019,East,Toronto Raptors,Champion
+2019,East,Philadelphia 76ers,2nd Round
+2019,East,Boston Celtics,2nd Round
+2019,East,Indiana Pacers,1st Round
+2019,East,Brooklyn Nets,1st Round
+2019,East,Orlando Magic,1st Round
+2019,East,Detroit Pistons,1st Round
+2019,East,Charlotte Hornets,Missed Playoffs
+2019,East,Miami Heat,Missed Playoffs
+2019,East,Washington Wizards,Missed Playoffs
+2019,East,Atlanta Hawks,Missed Playoffs
+2019,East,Chicago Bulls,Missed Playoffs
+2019,East,Cleveland Cavaliers,Missed Playoffs
+2019,East,New York Knicks,Missed Playoffs
+2019,West,Golden State Warriors,Finals
+2019,West,Denver Nuggets,2nd Round
+2019,West,Portland Trail Blazers,Conf. Finals
+2019,West,Houston Rockets,2nd Round
+2019,West,Utah Jazz,1st Round
+2019,West,Oklahoma City Thunder,1st Round
+2019,West,San Antonio Spurs,1st Round
+2019,West,Los Angeles Clippers,1st Round
+2019,West,Sacramento Kings,Missed Playoffs
+2019,West,Los Angeles Lakers,Missed Playoffs
+2019,West,Minnesota Timberwolves,Missed Playoffs
+2019,West,Memphis Grizzlies,Missed Playoffs
+2019,West,New Orleans Pelicans,Missed Playoffs
+2019,West,Dallas Mavericks,Missed Playoffs
+2019,West,Phoenix Suns,Missed Playoffs
+2020,East,Milwaukee Bucks,2nd Round
+2020,East,Toronto Raptors,2nd Round
+2020,East,Boston Celtics,Conf. Finals
+2020,East,Indiana Pacers,1st Round
+2020,East,Miami Heat,Finals
+2020,East,Philadelphia 76ers,1st Round
+2020,East,Brooklyn Nets,1st Round
+2020,East,Orlando Magic,1st Round
+2020,East,Washington Wizards,Missed Playoffs
+2020,East,Charlotte Hornets,Missed Playoffs
+2020,East,Chicago Bulls,Missed Playoffs
+2020,East,New York Knicks,Missed Playoffs
+2020,East,Detroit Pistons,Missed Playoffs
+2020,East,Atlanta Hawks,Missed Playoffs
+2020,East,Cleveland Cavaliers,Missed Playoffs
+2020,West,Los Angeles Lakers,Champion
+2020,West,Los Angeles Clippers,2nd Round
+2020,West,Denver Nuggets,Conf. Finals
+2020,West,Houston Rockets,2nd Round
+2020,West,Oklahoma City Thunder,1st Round
+2020,West,Utah Jazz,1st Round
+2020,West,Dallas Mavericks,1st Round
+2020,West,Portland Trail Blazers,1st Round
+2020,West,Memphis Grizzlies,Missed Playoffs
+2020,West,Phoenix Suns,Missed Playoffs
+2020,West,San Antonio Spurs,Missed Playoffs
+2020,West,Sacramento Kings,Missed Playoffs
+2020,West,New Orleans Pelicans,Missed Playoffs
+2020,West,Minnesota Timberwolves,Missed Playoffs
+2020,West,Golden State Warriors,Missed Playoffs
+2021,East,Philadelphia 76ers,2nd Round
+2021,East,Brooklyn Nets,2nd Round
+2021,East,Milwaukee Bucks,Champion
+2021,East,New York Knicks,1st Round
+2021,East,Atlanta Hawks,Conf. Finals
+2021,East,Miami Heat,1st Round
+2021,East,Boston Celtics,1st Round
+2021,East,Washington Wizards,1st Round
+2021,East,Indiana Pacers,Missed Playoffs
+2021,East,Charlotte Hornets,Missed Playoffs
+2021,East,Chicago Bulls,Missed Playoffs
+2021,East,Toronto Raptors,Missed Playoffs
+2021,East,Cleveland Cavaliers,Missed Playoffs
+2021,East,Orlando Magic,Missed Playoffs
+2021,East,Detroit Pistons,Missed Playoffs
+2021,West,Utah Jazz,2nd Round
+2021,West,Phoenix Suns,Finals
+2021,West,Denver Nuggets,2nd Round
+2021,West,Los Angeles Clippers,Conf. Finals
+2021,West,Dallas Mavericks,1st Round
+2021,West,Portland Trail Blazers,1st Round
+2021,West,Los Angeles Lakers,1st Round
+2021,West,Golden State Warriors,1st Round
+2021,West,Memphis Grizzlies,Missed Playoffs
+2021,West,San Antonio Spurs,Missed Playoffs
+2021,West,New Orleans Pelicans,Missed Playoffs
+2021,West,Sacramento Kings,Missed Playoffs
+2021,West,Minnesota Timberwolves,Missed Playoffs
+2021,West,Oklahoma City Thunder,Missed Playoffs
+2021,West,Houston Rockets,Missed Playoffs
+2022,East,Miami Heat,Conf. Finals
+2022,East,Boston Celtics,Finals
+2022,East,Milwaukee Bucks,2nd Round
+2022,East,Philadelphia 76ers,2nd Round
+2022,East,Toronto Raptors,1st Round
+2022,East,Chicago Bulls,1st Round
+2022,East,Brooklyn Nets,1st Round
+2022,East,Cleveland Cavaliers,1st Round
+2022,East,Atlanta Hawks,Missed Playoffs
+2022,East,Charlotte Hornets,Missed Playoffs
+2022,East,New York Knicks,Missed Playoffs
+2022,East,Washington Wizards,Missed Playoffs
+2022,East,Indiana Pacers,Missed Playoffs
+2022,East,Detroit Pistons,Missed Playoffs
+2022,East,Orlando Magic,Missed Playoffs
+2022,West,Phoenix Suns,2nd Round
+2022,West,Memphis Grizzlies,2nd Round
+2022,West,Golden State Warriors,Champion
+2022,West,Dallas Mavericks,Conf. Finals
+2022,West,Utah Jazz,1st Round
+2022,West,Denver Nuggets,1st Round
+2022,West,Minnesota Timberwolves,1st Round
+2022,West,Los Angeles Clippers,1st Round
+2022,West,New Orleans Pelicans,Missed Playoffs
+2022,West,San Antonio Spurs,Missed Playoffs
+2022,West,Los Angeles Lakers,Missed Playoffs
+2022,West,Sacramento Kings,Missed Playoffs
+2022,West,Portland Trail Blazers,Missed Playoffs
+2022,West,Oklahoma City Thunder,Missed Playoffs
+2022,West,Houston Rockets,Missed Playoffs
+2023,East,Milwaukee Bucks,1st Round
+2023,East,Boston Celtics,Conf. Finals
+2023,East,Philadelphia 76ers,2nd Round
+2023,East,Cleveland Cavaliers,1st Round
+2023,East,New York Knicks,2nd Round
+2023,East,Brooklyn Nets,1st Round
+2023,East,Miami Heat,Finals
+2023,East,Atlanta Hawks,1st Round
+2023,East,Toronto Raptors,Missed Playoffs
+2023,East,Chicago Bulls,Missed Playoffs
+2023,East,Indiana Pacers,Missed Playoffs
+2023,East,Washington Wizards,Missed Playoffs
+2023,East,Orlando Magic,Missed Playoffs
+2023,East,Charlotte Hornets,Missed Playoffs
+2023,East,Detroit Pistons,Missed Playoffs
+2023,West,Denver Nuggets,Champion
+2023,West,Memphis Grizzlies,1st Round
+2023,West,Sacramento Kings,1st Round
+2023,West,Phoenix Suns,2nd Round
+2023,West,Los Angeles Clippers,1st Round
+2023,West,Golden State Warriors,2nd Round
+2023,West,Los Angeles Lakers,Conf. Finals
+2023,West,Minnesota Timberwolves,1st Round
+2023,West,New Orleans Pelicans,Missed Playoffs
+2023,West,Oklahoma City Thunder,Missed Playoffs
+2023,West,Dallas Mavericks,Missed Playoffs
+2023,West,Utah Jazz,Missed Playoffs
+2023,West,Portland Trail Blazers,Missed Playoffs
+2023,West,Houston Rockets,Missed Playoffs
+2023,West,San Antonio Spurs,Missed Playoffs
+2024,East,Boston Celtics,Champion
+2024,East,New York Knicks,2nd Round
+2024,East,Milwaukee Bucks,1st Round
+2024,East,Cleveland Cavaliers,2nd Round
+2024,East,Orlando Magic,1st Round
+2024,East,Indiana Pacers,Conf. Finals
+2024,East,Philadelphia 76ers,1st Round
+2024,East,Miami Heat,1st Round
+2024,East,Chicago Bulls,Missed Playoffs
+2024,East,Atlanta Hawks,Missed Playoffs
+2024,East,Brooklyn Nets,Missed Playoffs
+2024,East,Toronto Raptors,Missed Playoffs
+2024,East,Charlotte Hornets,Missed Playoffs
+2024,East,Washington Wizards,Missed Playoffs
+2024,East,Detroit Pistons,Missed Playoffs
+2024,West,Oklahoma City Thunder,2nd Round
+2024,West,Denver Nuggets,2nd Round
+2024,West,Minnesota Timberwolves,Conf. Finals
+2024,West,Los Angeles Clippers,1st Round
+2024,West,Dallas Mavericks,Finals
+2024,West,Phoenix Suns,1st Round
+2024,West,New Orleans Pelicans,1st Round
+2024,West,Los Angeles Lakers,1st Round
+2024,West,Sacramento Kings,Missed Playoffs
+2024,West,Golden State Warriors,Missed Playoffs
+2024,West,Houston Rockets,Missed Playoffs
+2024,West,Utah Jazz,Missed Playoffs
+2024,West,Memphis Grizzlies,Missed Playoffs
+2024,West,San Antonio Spurs,Missed Playoffs
+2024,West,Portland Trail Blazers,Missed Playoffs
