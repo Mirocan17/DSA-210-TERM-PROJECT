@@ -22,3 +22,6 @@ final_df.to_csv('nba_drafts_1994_2024_cleaned.csv', index=False)
 print("\nJobs done.")
 from google.colab import files
 files.download('nba_drafts_1994_2024_cleaned.csv')
+import pandas as pd
+df = pd.read_csv('nba_drafts_1994_2024_cleaned.csv')
+df.head()
