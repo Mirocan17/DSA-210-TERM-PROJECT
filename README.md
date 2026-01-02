@@ -50,7 +50,6 @@ This project will be mainly based on 3 datasets. The datas to be found:
 2.Explatory Data Analysis (EDA)
 
 •Visualization : Maps, graphs, charts will be used to visualize the relationship between team performance, draft order and player perrformance. Basic statistics will be computed to relate with the data.
-### Hypothesis
 
 ## Hypothesis Testing Summary
 
@@ -63,7 +62,9 @@ $H_1$: Tanking teams significantly outperform others after a 3-year rebuilding p
 
 Method: Independent Two-Sample T-Test.
 
-## 2. The "Top 3 Pick" Factor$H_0$: Securing a Top 3 draft pick does not significantly improve a team's win percentage.
+## 2. The "Top 3 Pick" Factor
+$H_0$: Securing a Top 3 draft pick does not significantly improve a team's win percentage.
+
 $H_1$: A Top 3 pick leads to a significant performance boost in following seasons.
 
 Method: Paired T-Test.
