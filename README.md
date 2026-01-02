@@ -50,11 +50,30 @@ This project will be mainly based on 3 datasets. The datas to be found:
 2.Explatory Data Analysis (EDA)
 
 •Visualization : Maps, graphs, charts will be used to visualize the relationship between team performance, draft order and player perrformance. Basic statistics will be computed to relate with the data.
+### Hypothesis
 
-3.Hypothesis
+## Hypothesis Testing Summary
 
-1• Teams with lower win percentages get high order draft picks and be more succesfull in the upcoming years.
+This project evaluates the effectiveness of NBA tanking through three key statistical tests ($\alpha = 0.05$):
 
+## 1. Rebuilding Success (The 3-Year Rule)
+$H_0$: Tanking teams and non-tanking teams have similar win percentages after 3 years.
+
+$H_1$: Tanking teams significantly outperform others after a 3-year rebuilding period.
+
+Method: Independent Two-Sample T-Test.
+
+## 2. The "Top 3 Pick" Factor$H_0$: Securing a Top 3 draft pick does not significantly improve a team's win percentage.
+$H_1$: A Top 3 pick leads to a significant performance boost in following seasons.
+
+Method: Paired T-Test.
+
+## 3. Impact of 2019 Lottery Rule Changes
+$H_0$: The effectiveness of tanking remained the same after the 2019 lottery odds change.
+
+$H_1$: The strategy became significantly less effective after the 2019 rule changes.
+
+Method: Correlation Analysis / ANOVA.
 ## Tools and Technologies
 Python : Main programming language for all steps of the project providing visualization and data processing.
 
