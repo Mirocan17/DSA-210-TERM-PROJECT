@@ -75,6 +75,14 @@ $H_0$: The effectiveness of tanking remained the same after the 2019 lottery odd
 $H_1$: The strategy became significantly less effective after the 2019 rule changes.
 
 Method: Correlation Analysis / ANOVA.
+
+## Machine Learning Process
+
+In this project, we implement a dual-stage machine learning approach using Unsupervised and Supervised learning to decode NBA performance patterns:
+
+Clustering (K-Means): We apply the K-Means algorithm to group NBA teams based on their regular-season statistical profiles (Win Rate, Conference Standing, and historical data). This allows us to identify "hidden tiers" of teams beyond traditional rankings, revealing which performance clusters are most resilient during the transition to the playoffs.
+
+Predictive Modeling (Random Forest): We utilize a Random Forest Classifier to predict a team's deepest playoff round. By leveraging an ensemble of decision trees, this model analyzes the non-linear relationships between season metrics and postseason success. Random Forest was selected for its robustness against over-fitting and its ability to rank feature importance, helping us identify which regular-season factors are the strongest predictors of becoming a Champion.
 ## Tools and Technologies
 Python : Main programming language for all steps of the project providing visualization and data processing.
 
